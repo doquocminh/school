@@ -1,0 +1,3933 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paperio\n"
+"POT-Creation-Date: 2019-08-01 16:17+0530\n"
+"PO-Revision-Date: 2019-08-01 16:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: Themezaa\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html_e;esc_html__;esc_attr_e;wp_kses;_x;"
+"esc_attr;esc_html;_e;_n;_nx;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/main.min.js:1
+msgid "BeforeOpen"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "BuildControls"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "AfterClose"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "Resize"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "BeforeChange"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "FirstMarkupParse"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "Change"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "AfterChange"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "BeforeAppend"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "ElementParse"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "UpdateStatus"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "ParseAjax"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "AjaxContentAdded"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "ImageHasSize"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "ImageLoadComplete"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "ZoomAnimationEnded"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "LazyLoad"
+msgstr ""
+
+#: assets/js/main.min.js:1
+msgid "LazyLoadError"
+msgstr ""
+
+#: comments.php:25
+msgid "Blog Comments"
+msgstr ""
+
+#: comments.php:63
+msgid "Name *"
+msgstr ""
+
+#: comments.php:64
+msgid "Email *"
+msgstr ""
+
+#: comments.php:65
+msgid "Website"
+msgstr ""
+
+#: comments.php:71
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:81
+msgid "Your Comment *"
+msgstr ""
+
+#: comments.php:85
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:86
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:87
+msgid "Cancel Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+msgid "Logged in as %s. Edit your profile."
+msgstr ""
+
+#: comments.php:98
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: comments.php:100
+msgid "Log Out?"
+msgstr ""
+
+#: functions.php:107
+msgid "Paperio Mega Menu"
+msgstr ""
+
+#: functions.php:155
+msgid "Orange"
+msgstr ""
+
+#: functions.php:161
+msgid "Blue"
+msgstr ""
+
+#: functions.php:167
+msgid "Deep green"
+msgstr ""
+
+#: functions.php:173
+msgid "Turquoise blue"
+msgstr ""
+
+#: functions.php:179
+msgid "Fast red"
+msgstr ""
+
+#: functions.php:185
+msgid "Yellow"
+msgstr ""
+
+#: functions.php:195
+msgid "Dark gray"
+msgstr ""
+
+#: functions.php:200
+msgid "Light gray"
+msgstr ""
+
+#: functions.php:205
+msgid "Black"
+msgstr ""
+
+#: functions.php:216
+msgid "Small"
+msgstr ""
+
+#: functions.php:217
+msgid "S"
+msgstr ""
+
+#: functions.php:222
+msgid "Normal"
+msgstr ""
+
+#: functions.php:223
+msgid "M"
+msgstr ""
+
+#: functions.php:228
+msgid "Large"
+msgstr ""
+
+#: functions.php:229
+msgid "L"
+msgstr ""
+
+#: functions.php:234
+msgid "Huge"
+msgstr ""
+
+#: functions.php:235
+msgid "XL"
+msgstr ""
+
+#: functions.php:266
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:268
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:276
+msgid "Menu Banner 1"
+msgstr ""
+
+#: functions.php:278 functions.php:288
+msgid "Appear in menu."
+msgstr ""
+
+#: functions.php:286
+msgid "Menu Banner 2"
+msgstr ""
+
+#: functions.php:296
+msgid "Content Bottom 1"
+msgstr ""
+
+#: functions.php:298 functions.php:308
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+
+#: functions.php:306
+msgid "Content Bottom 2"
+msgstr ""
+
+#: functions.php:316
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:318 functions.php:328 functions.php:338
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:326
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:336
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:346
+msgid "Custom Sidebar 1"
+msgstr ""
+
+#: functions.php:356
+msgid "Custom Sidebar 2"
+msgstr ""
+
+#: functions.php:366
+msgid "Custom Sidebar 3"
+msgstr ""
+
+#: functions.php:376
+msgid "Custom Sidebar 4"
+msgstr ""
+
+#: functions.php:386
+msgid "Custom Sidebar 5"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:17
+msgid "Hide Blog List"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:22
+#: lib/customizer/customizer-maps/blog-layout-settings.php:113
+#: lib/customizer/customizer-maps/blog-layout-settings.php:257
+#: lib/customizer/customizer-maps/blog-layout-settings.php:278
+#: lib/customizer/customizer-maps/blog-layout-settings.php:299
+#: lib/customizer/customizer-maps/blog-layout-settings.php:320
+#: lib/customizer/customizer-maps/blog-layout-settings.php:341
+#: lib/customizer/customizer-maps/blog-layout-settings.php:398
+#: lib/customizer/customizer-maps/blog-layout-settings.php:436
+#: lib/customizer/customizer-maps/blog-layout-settings.php:474
+#: lib/customizer/customizer-maps/blog-layout-settings.php:495
+#: lib/customizer/customizer-maps/blog-layout-settings.php:516
+#: lib/customizer/customizer-maps/blog-layout-settings.php:553
+#: lib/customizer/customizer-maps/blog-layout-settings.php:574
+#: lib/customizer/customizer-maps/blog-layout-settings.php:595
+#: lib/customizer/customizer-maps/blog-layout-settings.php:616
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:20
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:57
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:77
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:115
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:152
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:172
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:209
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:229
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:249
+#: lib/customizer/customizer-maps/custom-color-settings.php:23
+#: lib/customizer/customizer-maps/featured-area-settings.php:19
+#: lib/customizer/customizer-maps/featured-area-settings.php:161
+#: lib/customizer/customizer-maps/featured-area-settings.php:181
+#: lib/customizer/customizer-maps/featured-area-settings.php:202
+#: lib/customizer/customizer-maps/featured-area-settings.php:241
+#: lib/customizer/customizer-maps/featured-area-settings.php:279
+#: lib/customizer/customizer-maps/featured-area-settings.php:402
+#: lib/customizer/customizer-maps/featured-area-settings.php:466
+#: lib/customizer/customizer-maps/featured-area-settings.php:530
+#: lib/customizer/customizer-maps/featured-area-settings.php:550
+#: lib/customizer/customizer-maps/featured-area-settings.php:604
+#: lib/customizer/customizer-maps/featured-area-settings.php:687
+#: lib/customizer/customizer-maps/footer-settings.php:22
+#: lib/customizer/customizer-maps/footer-settings.php:64
+#: lib/customizer/customizer-maps/footer-settings.php:283
+#: lib/customizer/customizer-maps/footer-settings.php:304
+#: lib/customizer/customizer-maps/footer-settings.php:325
+#: lib/customizer/customizer-maps/footer-settings.php:907
+#: lib/customizer/customizer-maps/footer-settings.php:928
+#: lib/customizer/customizer-maps/general-layout-settings.php:79
+#: lib/customizer/customizer-maps/general-layout-settings.php:99
+#: lib/customizer/customizer-maps/header-settings.php:19
+#: lib/customizer/customizer-maps/header-settings.php:40
+#: lib/customizer/customizer-maps/header-settings.php:302
+#: lib/customizer/customizer-maps/header-settings.php:322
+#: lib/customizer/customizer-maps/header-settings.php:955
+#: lib/customizer/customizer-maps/header-settings.php:995
+#: lib/customizer/customizer-maps/header-settings.php:1068
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:19
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:39
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:59
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:79
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:19
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:72
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:214
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:235
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:384
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:428
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:448
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:532
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:571
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:592
+#: lib/customizer/customizer-maps/layout-settings.php:125
+#: lib/customizer/customizer-maps/layout-settings.php:145
+#: lib/customizer/customizer-maps/layout-settings.php:165
+#: lib/customizer/customizer-maps/layout-settings.php:186
+#: lib/customizer/customizer-maps/layout-settings.php:352
+#: lib/customizer/customizer-maps/layout-settings.php:372
+#: lib/customizer/customizer-maps/layout-settings.php:410
+#: lib/customizer/customizer-maps/layout-settings.php:430
+#: lib/customizer/customizer-maps/layout-settings.php:450
+#: lib/customizer/customizer-maps/layout-settings.php:470
+#: lib/customizer/customizer-maps/layout-settings.php:491
+#: lib/customizer/customizer-maps/layout-settings.php:511
+#: lib/customizer/customizer-maps/layout-settings.php:531
+#: lib/customizer/customizer-maps/layout-settings.php:551
+#: lib/customizer/customizer-maps/layout-settings.php:571
+#: lib/customizer/customizer-maps/layout-settings.php:591
+#: lib/customizer/customizer-maps/layout-settings.php:672
+#: lib/customizer/customizer-maps/layout-settings.php:692
+#: lib/customizer/customizer-maps/layout-settings.php:713
+#: lib/customizer/customizer-maps/layout-settings.php:752
+#: lib/customizer/customizer-maps/layout-settings.php:1266
+#: lib/customizer/customizer-maps/layout-settings.php:1286
+#: lib/customizer/customizer-maps/layout-settings.php:1306
+#: lib/customizer/customizer-maps/layout-settings.php:1326
+#: lib/customizer/customizer-maps/layout-settings.php:1364
+#: lib/customizer/customizer-maps/layout-settings.php:1401
+#: lib/customizer/customizer-maps/layout-settings.php:1439
+#: lib/customizer/customizer-maps/layout-settings.php:1459
+#: lib/customizer/customizer-maps/layout-settings.php:1479
+#: lib/customizer/customizer-maps/layout-settings.php:1499
+#: lib/customizer/customizer-maps/layout-settings.php:2232
+#: lib/customizer/customizer-maps/layout-settings.php:2252
+#: lib/customizer/customizer-maps/layout-settings.php:2272
+#: lib/customizer/customizer-maps/layout-settings.php:2292
+#: lib/customizer/customizer-maps/layout-settings.php:2330
+#: lib/customizer/customizer-maps/layout-settings.php:2367
+#: lib/customizer/customizer-maps/layout-settings.php:2405
+#: lib/customizer/customizer-maps/layout-settings.php:2425
+#: lib/customizer/customizer-maps/layout-settings.php:2445
+#: lib/customizer/customizer-maps/layout-settings.php:2465
+#: lib/customizer/customizer-maps/page-not-found-settings.php:68
+#: lib/customizer/customizer-maps/page-not-found-settings.php:122
+#: lib/customizer/customizer-maps/post-social-share-settings.php:19
+#: lib/customizer/customizer-maps/post-social-share-settings.php:39
+#: lib/customizer/customizer-maps/post-social-share-settings.php:79
+#: lib/customizer/customizer-maps/post-social-share-settings.php:119
+#: lib/customizer/customizer-maps/post-social-share-settings.php:159
+#: lib/customizer/customizer-maps/post-social-share-settings.php:199
+#: lib/customizer/customizer-maps/post-social-share-settings.php:239
+#: lib/customizer/customizer-maps/post-social-share-settings.php:279
+#: lib/customizer/customizer-maps/post-social-share-settings.php:319
+#: lib/customizer/customizer-maps/post-social-share-settings.php:359
+#: lib/customizer/customizer-maps/post-social-share-settings.php:399
+#: lib/customizer/customizer-maps/promotional-block-settings.php:19
+msgid "Yes"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:23
+#: lib/customizer/customizer-maps/blog-layout-settings.php:114
+#: lib/customizer/customizer-maps/blog-layout-settings.php:258
+#: lib/customizer/customizer-maps/blog-layout-settings.php:279
+#: lib/customizer/customizer-maps/blog-layout-settings.php:300
+#: lib/customizer/customizer-maps/blog-layout-settings.php:321
+#: lib/customizer/customizer-maps/blog-layout-settings.php:342
+#: lib/customizer/customizer-maps/blog-layout-settings.php:399
+#: lib/customizer/customizer-maps/blog-layout-settings.php:437
+#: lib/customizer/customizer-maps/blog-layout-settings.php:475
+#: lib/customizer/customizer-maps/blog-layout-settings.php:496
+#: lib/customizer/customizer-maps/blog-layout-settings.php:517
+#: lib/customizer/customizer-maps/blog-layout-settings.php:554
+#: lib/customizer/customizer-maps/blog-layout-settings.php:575
+#: lib/customizer/customizer-maps/blog-layout-settings.php:596
+#: lib/customizer/customizer-maps/blog-layout-settings.php:617
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:21
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:58
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:78
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:116
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:153
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:173
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:210
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:230
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:250
+#: lib/customizer/customizer-maps/custom-color-settings.php:24
+#: lib/customizer/customizer-maps/featured-area-settings.php:20
+#: lib/customizer/customizer-maps/featured-area-settings.php:162
+#: lib/customizer/customizer-maps/featured-area-settings.php:182
+#: lib/customizer/customizer-maps/featured-area-settings.php:203
+#: lib/customizer/customizer-maps/featured-area-settings.php:242
+#: lib/customizer/customizer-maps/featured-area-settings.php:280
+#: lib/customizer/customizer-maps/featured-area-settings.php:403
+#: lib/customizer/customizer-maps/featured-area-settings.php:467
+#: lib/customizer/customizer-maps/featured-area-settings.php:531
+#: lib/customizer/customizer-maps/featured-area-settings.php:551
+#: lib/customizer/customizer-maps/featured-area-settings.php:605
+#: lib/customizer/customizer-maps/featured-area-settings.php:688
+#: lib/customizer/customizer-maps/footer-settings.php:23
+#: lib/customizer/customizer-maps/footer-settings.php:65
+#: lib/customizer/customizer-maps/footer-settings.php:284
+#: lib/customizer/customizer-maps/footer-settings.php:305
+#: lib/customizer/customizer-maps/footer-settings.php:326
+#: lib/customizer/customizer-maps/footer-settings.php:908
+#: lib/customizer/customizer-maps/footer-settings.php:929
+#: lib/customizer/customizer-maps/general-layout-settings.php:80
+#: lib/customizer/customizer-maps/general-layout-settings.php:100
+#: lib/customizer/customizer-maps/header-settings.php:20
+#: lib/customizer/customizer-maps/header-settings.php:41
+#: lib/customizer/customizer-maps/header-settings.php:303
+#: lib/customizer/customizer-maps/header-settings.php:323
+#: lib/customizer/customizer-maps/header-settings.php:956
+#: lib/customizer/customizer-maps/header-settings.php:996
+#: lib/customizer/customizer-maps/header-settings.php:1069
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:20
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:40
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:60
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:80
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:20
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:73
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:215
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:236
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:385
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:429
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:449
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:533
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:572
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:593
+#: lib/customizer/customizer-maps/layout-settings.php:126
+#: lib/customizer/customizer-maps/layout-settings.php:146
+#: lib/customizer/customizer-maps/layout-settings.php:166
+#: lib/customizer/customizer-maps/layout-settings.php:187
+#: lib/customizer/customizer-maps/layout-settings.php:353
+#: lib/customizer/customizer-maps/layout-settings.php:373
+#: lib/customizer/customizer-maps/layout-settings.php:411
+#: lib/customizer/customizer-maps/layout-settings.php:431
+#: lib/customizer/customizer-maps/layout-settings.php:451
+#: lib/customizer/customizer-maps/layout-settings.php:471
+#: lib/customizer/customizer-maps/layout-settings.php:492
+#: lib/customizer/customizer-maps/layout-settings.php:512
+#: lib/customizer/customizer-maps/layout-settings.php:532
+#: lib/customizer/customizer-maps/layout-settings.php:552
+#: lib/customizer/customizer-maps/layout-settings.php:572
+#: lib/customizer/customizer-maps/layout-settings.php:592
+#: lib/customizer/customizer-maps/layout-settings.php:673
+#: lib/customizer/customizer-maps/layout-settings.php:693
+#: lib/customizer/customizer-maps/layout-settings.php:714
+#: lib/customizer/customizer-maps/layout-settings.php:753
+#: lib/customizer/customizer-maps/layout-settings.php:1267
+#: lib/customizer/customizer-maps/layout-settings.php:1287
+#: lib/customizer/customizer-maps/layout-settings.php:1307
+#: lib/customizer/customizer-maps/layout-settings.php:1327
+#: lib/customizer/customizer-maps/layout-settings.php:1365
+#: lib/customizer/customizer-maps/layout-settings.php:1402
+#: lib/customizer/customizer-maps/layout-settings.php:1440
+#: lib/customizer/customizer-maps/layout-settings.php:1460
+#: lib/customizer/customizer-maps/layout-settings.php:1480
+#: lib/customizer/customizer-maps/layout-settings.php:1500
+#: lib/customizer/customizer-maps/layout-settings.php:2233
+#: lib/customizer/customizer-maps/layout-settings.php:2253
+#: lib/customizer/customizer-maps/layout-settings.php:2273
+#: lib/customizer/customizer-maps/layout-settings.php:2293
+#: lib/customizer/customizer-maps/layout-settings.php:2331
+#: lib/customizer/customizer-maps/layout-settings.php:2368
+#: lib/customizer/customizer-maps/layout-settings.php:2406
+#: lib/customizer/customizer-maps/layout-settings.php:2426
+#: lib/customizer/customizer-maps/layout-settings.php:2446
+#: lib/customizer/customizer-maps/layout-settings.php:2466
+#: lib/customizer/customizer-maps/page-not-found-settings.php:69
+#: lib/customizer/customizer-maps/page-not-found-settings.php:123
+#: lib/customizer/customizer-maps/post-social-share-settings.php:20
+#: lib/customizer/customizer-maps/post-social-share-settings.php:40
+#: lib/customizer/customizer-maps/post-social-share-settings.php:80
+#: lib/customizer/customizer-maps/post-social-share-settings.php:120
+#: lib/customizer/customizer-maps/post-social-share-settings.php:160
+#: lib/customizer/customizer-maps/post-social-share-settings.php:200
+#: lib/customizer/customizer-maps/post-social-share-settings.php:240
+#: lib/customizer/customizer-maps/post-social-share-settings.php:280
+#: lib/customizer/customizer-maps/post-social-share-settings.php:320
+#: lib/customizer/customizer-maps/post-social-share-settings.php:360
+#: lib/customizer/customizer-maps/post-social-share-settings.php:400
+#: lib/customizer/customizer-maps/promotional-block-settings.php:20
+msgid "No"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:37
+msgid "Blog Layout"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:42
+msgid "Blog Layout1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:43
+msgid "Blog Layout2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:44
+msgid "Blog Layout3"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:45
+msgid "Blog Layout4"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:46
+msgid "Blog Layout5"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:47
+msgid "Blog Layout6"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:48
+msgid "Blog Layout7"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:63
+#: lib/customizer/customizer-maps/blog-layout-settings.php:86
+#: lib/customizer/customizer-maps/blog-layout-settings.php:129
+#: lib/customizer/customizer-maps/layout-settings.php:1121
+#: lib/customizer/customizer-maps/layout-settings.php:2036
+#: lib/paperio-extra-functions.php:941 lib/paperio-extra-functions.php:1026
+msgid "Column Type"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:68
+#: lib/customizer/customizer-maps/blog-layout-settings.php:91
+#: lib/customizer/customizer-maps/blog-layout-settings.php:134
+#: lib/customizer/customizer-maps/layout-settings.php:1126
+#: lib/customizer/customizer-maps/layout-settings.php:2041
+#: lib/paperio-extra-functions.php:944 lib/paperio-extra-functions.php:1031
+msgid "2 Columns"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:69
+#: lib/customizer/customizer-maps/blog-layout-settings.php:92
+#: lib/customizer/customizer-maps/blog-layout-settings.php:135
+#: lib/customizer/customizer-maps/layout-settings.php:1127
+#: lib/customizer/customizer-maps/layout-settings.php:2042
+#: lib/paperio-extra-functions.php:945 lib/paperio-extra-functions.php:1032
+msgid "3 Columns"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:70
+#: lib/customizer/customizer-maps/blog-layout-settings.php:93
+#: lib/customizer/customizer-maps/blog-layout-settings.php:136
+#: lib/customizer/customizer-maps/layout-settings.php:1128
+#: lib/customizer/customizer-maps/layout-settings.php:2043
+#: lib/paperio-extra-functions.php:946 lib/paperio-extra-functions.php:1033
+msgid "4 Columns"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:108
+msgid "Exclude First Big Post"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:151
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:35
+#: lib/customizer/customizer-maps/featured-area-settings.php:57
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:34
+#: lib/customizer/customizer-maps/layout-settings.php:330
+#: lib/customizer/customizer-maps/layout-settings.php:623
+#: lib/customizer/customizer-maps/layout-settings.php:1143
+#: lib/customizer/customizer-maps/layout-settings.php:2058
+msgid "Featured Image Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:169
+#: lib/customizer/customizer-maps/layout-settings.php:21
+#: lib/customizer/customizer-maps/layout-settings.php:246
+#: lib/customizer/customizer-maps/layout-settings.php:1160
+#: lib/customizer/customizer-maps/layout-settings.php:2075
+msgid "Sidebar Settings"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:174
+#: lib/customizer/customizer-maps/layout-settings.php:26
+#: lib/customizer/customizer-maps/layout-settings.php:251
+#: lib/customizer/customizer-maps/layout-settings.php:1165
+#: lib/customizer/customizer-maps/layout-settings.php:2080
+#: lib/paperio-extra-functions.php:954 lib/paperio-extra-functions.php:1045
+msgid "One Column"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:175
+#: lib/customizer/customizer-maps/layout-settings.php:27
+#: lib/customizer/customizer-maps/layout-settings.php:252
+#: lib/customizer/customizer-maps/layout-settings.php:1166
+#: lib/customizer/customizer-maps/layout-settings.php:2081
+#: lib/paperio-extra-functions.php:955 lib/paperio-extra-functions.php:1046
+msgid "Two Columns Left"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:176
+#: lib/customizer/customizer-maps/layout-settings.php:28
+#: lib/customizer/customizer-maps/layout-settings.php:253
+#: lib/customizer/customizer-maps/layout-settings.php:1167
+#: lib/customizer/customizer-maps/layout-settings.php:2082
+#: lib/paperio-extra-functions.php:956 lib/paperio-extra-functions.php:1047
+msgid "Two Columns Right"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:195
+#: lib/customizer/customizer-maps/layout-settings.php:47
+#: lib/customizer/customizer-maps/layout-settings.php:274
+#: lib/customizer/customizer-maps/layout-settings.php:1188
+#: lib/customizer/customizer-maps/layout-settings.php:2103
+#: lib/paperio-extra-functions.php:962 lib/paperio-extra-functions.php:1055
+msgid "Left Sidebar"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:213
+#: lib/customizer/customizer-maps/layout-settings.php:65
+#: lib/customizer/customizer-maps/layout-settings.php:292
+#: lib/customizer/customizer-maps/layout-settings.php:1206
+#: lib/customizer/customizer-maps/layout-settings.php:2121
+#: lib/paperio-extra-functions.php:971 lib/paperio-extra-functions.php:1069
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:231
+#: lib/customizer/customizer-maps/featured-area-settings.php:136
+#: lib/customizer/customizer-maps/footer-settings.php:79
+#: lib/customizer/customizer-maps/footer-settings.php:863
+#: lib/customizer/customizer-maps/header-settings.php:79
+#: lib/customizer/customizer-maps/header-settings.php:1102
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:107
+#: lib/customizer/customizer-maps/layout-settings.php:83
+#: lib/customizer/customizer-maps/layout-settings.php:310
+#: lib/customizer/customizer-maps/layout-settings.php:1224
+#: lib/customizer/customizer-maps/layout-settings.php:2139
+#: lib/customizer/customizer-maps/promotional-block-settings.php:34
+#: lib/paperio-extra-functions.php:980 lib/paperio-extra-functions.php:1083
+msgid "Container Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:236
+#: lib/customizer/customizer-maps/featured-area-settings.php:141
+#: lib/customizer/customizer-maps/footer-settings.php:85
+#: lib/customizer/customizer-maps/footer-settings.php:869
+#: lib/customizer/customizer-maps/header-settings.php:85
+#: lib/customizer/customizer-maps/header-settings.php:1108
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:112
+#: lib/customizer/customizer-maps/layout-settings.php:88
+#: lib/customizer/customizer-maps/layout-settings.php:315
+#: lib/customizer/customizer-maps/layout-settings.php:1229
+#: lib/customizer/customizer-maps/layout-settings.php:2144
+#: lib/customizer/customizer-maps/promotional-block-settings.php:39
+#: lib/paperio-extra-functions.php:984 lib/paperio-extra-functions.php:1089
+msgid "Fluid Container"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:237
+#: lib/customizer/customizer-maps/featured-area-settings.php:142
+#: lib/customizer/customizer-maps/footer-settings.php:86
+#: lib/customizer/customizer-maps/footer-settings.php:870
+#: lib/customizer/customizer-maps/header-settings.php:86
+#: lib/customizer/customizer-maps/header-settings.php:1109
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:113
+#: lib/customizer/customizer-maps/layout-settings.php:89
+#: lib/customizer/customizer-maps/layout-settings.php:316
+#: lib/customizer/customizer-maps/layout-settings.php:1230
+#: lib/customizer/customizer-maps/layout-settings.php:2145
+#: lib/customizer/customizer-maps/promotional-block-settings.php:40
+#: lib/paperio-extra-functions.php:983 lib/paperio-extra-functions.php:1088
+msgid "Fixed Container"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:252
+msgid "Exclude Featured Area Posts"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:273
+msgid "Exclude Latest / Popular Block Posts"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:294
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:52
+#: lib/customizer/customizer-maps/featured-area-settings.php:156
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:209
+#: lib/customizer/customizer-maps/layout-settings.php:347
+#: lib/customizer/customizer-maps/layout-settings.php:1301
+msgid "Hide Category"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:315
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:147
+#: lib/customizer/customizer-maps/layout-settings.php:405
+msgid "Hide Author"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:336
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:72
+#: lib/customizer/customizer-maps/featured-area-settings.php:176
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:230
+#: lib/customizer/customizer-maps/layout-settings.php:367
+#: lib/customizer/customizer-maps/layout-settings.php:1321
+#: lib/customizer/customizer-maps/layout-settings.php:2287
+msgid "Hide Date"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:357
+msgid "Day Date Format"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:361
+#: lib/customizer/customizer-maps/blog-layout-settings.php:379
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:96
+#: lib/customizer/customizer-maps/featured-area-settings.php:222
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:254
+#: lib/customizer/customizer-maps/layout-settings.php:391
+#: lib/customizer/customizer-maps/layout-settings.php:733
+#: lib/customizer/customizer-maps/layout-settings.php:1345
+#: lib/customizer/customizer-maps/layout-settings.php:2311
+#, php-format
+msgid ""
+"Date format should be like F j, Y <a target=\"_blank\" href=\"%s\">click "
+"here</a> to see other date formates."
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:375
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:92
+#: lib/customizer/customizer-maps/featured-area-settings.php:218
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:250
+#: lib/customizer/customizer-maps/layout-settings.php:387
+#: lib/customizer/customizer-maps/layout-settings.php:1341
+#: lib/customizer/customizer-maps/layout-settings.php:2307
+msgid "Date Format"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:393
+msgid "Hide First Post Excerpt"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:414
+msgid "First Post Excerpt Length"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:431
+#: lib/customizer/customizer-maps/layout-settings.php:1359
+#: lib/customizer/customizer-maps/layout-settings.php:2325
+msgid "Hide Excerpt"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:452
+#: lib/customizer/customizer-maps/layout-settings.php:1379
+#: lib/customizer/customizer-maps/layout-settings.php:2345
+msgid "Excerpt Length"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:469
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:204
+#: lib/customizer/customizer-maps/layout-settings.php:506
+#: lib/customizer/customizer-maps/layout-settings.php:1454
+#: lib/customizer/customizer-maps/layout-settings.php:2420
+msgid "Hide Comment Link"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:490
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:224
+#: lib/customizer/customizer-maps/layout-settings.php:526
+#: lib/customizer/customizer-maps/layout-settings.php:1474
+#: lib/customizer/customizer-maps/layout-settings.php:2440
+msgid "Hide Like"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:511
+#: lib/customizer/customizer-maps/featured-area-settings.php:236
+#: lib/customizer/customizer-maps/layout-settings.php:1396
+#: lib/customizer/customizer-maps/layout-settings.php:2362
+#: lib/customizer/customizer-maps/page-not-found-settings.php:63
+msgid "Hide Button"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:532
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:187
+#: lib/customizer/customizer-maps/featured-area-settings.php:257
+#: lib/customizer/customizer-maps/layout-settings.php:2382
+#: lib/customizer/customizer-maps/page-not-found-settings.php:83
+msgid "Button Text"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:548
+#: lib/customizer/customizer-maps/featured-area-settings.php:274
+#: lib/customizer/customizer-maps/layout-settings.php:1433
+#: lib/customizer/customizer-maps/layout-settings.php:2399
+msgid "Hide Button Arrow"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:569
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:244
+#: lib/customizer/customizer-maps/layout-settings.php:687
+msgid "Hide Post Format Icon"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:590
+msgid "Hide Post Quote Icon"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:611
+msgid "Hide Post Bottom Separator Line"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:632
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:264
+#: lib/customizer/customizer-maps/header-settings.php:860
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:607
+#: lib/customizer/customizer-maps/layout-settings.php:1514
+#: lib/customizer/customizer-maps/layout-settings.php:2480
+#: lib/customizer/customizer-maps/promotional-block-settings.php:71
+msgid "Font & Color Settings"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:650
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:281
+msgid "Box Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:668
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:298
+msgid "Box Border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:686
+msgid "Content Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:702
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:313
+#: lib/customizer/customizer-maps/custom-color-settings.php:149
+#: lib/customizer/customizer-maps/featured-area-settings.php:783
+#: lib/customizer/customizer-maps/general-layout-settings.php:172
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:622
+#: lib/customizer/customizer-maps/layout-settings.php:1530
+#: lib/customizer/customizer-maps/layout-settings.php:2496
+#: lib/customizer/customizer-maps/layout-settings.php:2513
+#: lib/customizer/customizer-maps/promotional-block-settings.php:150
+msgid "Title Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:706
+#: lib/customizer/customizer-maps/blog-layout-settings.php:796
+#: lib/customizer/customizer-maps/blog-layout-settings.php:886
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1030
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:317
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:402
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:487
+#: lib/customizer/customizer-maps/custom-color-settings.php:42
+#: lib/customizer/customizer-maps/custom-color-settings.php:153
+#: lib/customizer/customizer-maps/custom-color-settings.php:221
+#: lib/customizer/customizer-maps/custom-color-settings.php:360
+#: lib/customizer/customizer-maps/custom-color-settings.php:484
+#: lib/customizer/customizer-maps/featured-area-settings.php:787
+#: lib/customizer/customizer-maps/featured-area-settings.php:872
+#: lib/customizer/customizer-maps/featured-area-settings.php:957
+#: lib/customizer/customizer-maps/footer-settings.php:211
+#: lib/customizer/customizer-maps/general-layout-settings.php:176
+#: lib/customizer/customizer-maps/general-layout-settings.php:244
+#: lib/customizer/customizer-maps/header-settings.php:880
+#: lib/customizer/customizer-maps/header-settings.php:1170
+#: lib/customizer/customizer-maps/header-settings.php:1308
+#: lib/customizer/customizer-maps/header-settings.php:1362
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:626
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:712
+#: lib/customizer/customizer-maps/layout-settings.php:787
+#: lib/customizer/customizer-maps/layout-settings.php:910
+#: lib/customizer/customizer-maps/layout-settings.php:995
+#: lib/customizer/customizer-maps/layout-settings.php:1534
+#: lib/customizer/customizer-maps/layout-settings.php:1551
+#: lib/customizer/customizer-maps/layout-settings.php:1619
+#: lib/customizer/customizer-maps/layout-settings.php:1704
+#: lib/customizer/customizer-maps/layout-settings.php:1789
+#: lib/customizer/customizer-maps/layout-settings.php:2500
+#: lib/customizer/customizer-maps/layout-settings.php:2585
+#: lib/customizer/customizer-maps/layout-settings.php:2670
+#: lib/customizer/customizer-maps/layout-settings.php:2755
+#: lib/customizer/customizer-maps/post-social-share-settings.php:454
+#: lib/customizer/customizer-maps/promotional-block-settings.php:154
+msgid "Add font size like 12px."
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:720
+#: lib/customizer/customizer-maps/custom-color-settings.php:166
+#: lib/customizer/customizer-maps/featured-area-settings.php:800
+#: lib/customizer/customizer-maps/general-layout-settings.php:189
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:639
+#: lib/customizer/customizer-maps/layout-settings.php:1547
+#: lib/customizer/customizer-maps/promotional-block-settings.php:167
+msgid "Title Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:724
+#: lib/customizer/customizer-maps/blog-layout-settings.php:814
+#: lib/customizer/customizer-maps/blog-layout-settings.php:904
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1048
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:334
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:419
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:504
+#: lib/customizer/customizer-maps/custom-color-settings.php:59
+#: lib/customizer/customizer-maps/custom-color-settings.php:170
+#: lib/customizer/customizer-maps/custom-color-settings.php:238
+#: lib/customizer/customizer-maps/custom-color-settings.php:377
+#: lib/customizer/customizer-maps/custom-color-settings.php:501
+#: lib/customizer/customizer-maps/featured-area-settings.php:804
+#: lib/customizer/customizer-maps/featured-area-settings.php:889
+#: lib/customizer/customizer-maps/featured-area-settings.php:975
+#: lib/customizer/customizer-maps/footer-settings.php:229
+#: lib/customizer/customizer-maps/general-layout-settings.php:193
+#: lib/customizer/customizer-maps/general-layout-settings.php:261
+#: lib/customizer/customizer-maps/header-settings.php:898
+#: lib/customizer/customizer-maps/header-settings.php:1380
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:643
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:729
+#: lib/customizer/customizer-maps/layout-settings.php:804
+#: lib/customizer/customizer-maps/layout-settings.php:927
+#: lib/customizer/customizer-maps/layout-settings.php:1012
+#: lib/customizer/customizer-maps/layout-settings.php:1636
+#: lib/customizer/customizer-maps/layout-settings.php:1721
+#: lib/customizer/customizer-maps/layout-settings.php:1807
+#: lib/customizer/customizer-maps/layout-settings.php:2517
+#: lib/customizer/customizer-maps/layout-settings.php:2602
+#: lib/customizer/customizer-maps/layout-settings.php:2687
+#: lib/customizer/customizer-maps/layout-settings.php:2773
+#: lib/customizer/customizer-maps/post-social-share-settings.php:472
+#: lib/customizer/customizer-maps/promotional-block-settings.php:171
+msgid "Add line height like 12px."
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:738
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:347
+#: lib/customizer/customizer-maps/custom-color-settings.php:183
+#: lib/customizer/customizer-maps/featured-area-settings.php:817
+#: lib/customizer/customizer-maps/general-layout-settings.php:206
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:656
+#: lib/customizer/customizer-maps/layout-settings.php:1564
+#: lib/customizer/customizer-maps/layout-settings.php:2530
+#: lib/customizer/customizer-maps/promotional-block-settings.php:184
+msgid "Title Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:742
+#: lib/customizer/customizer-maps/blog-layout-settings.php:832
+#: lib/customizer/customizer-maps/blog-layout-settings.php:922
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1066
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:351
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:436
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:521
+#: lib/customizer/customizer-maps/custom-color-settings.php:76
+#: lib/customizer/customizer-maps/custom-color-settings.php:187
+#: lib/customizer/customizer-maps/custom-color-settings.php:255
+#: lib/customizer/customizer-maps/custom-color-settings.php:394
+#: lib/customizer/customizer-maps/custom-color-settings.php:518
+#: lib/customizer/customizer-maps/featured-area-settings.php:821
+#: lib/customizer/customizer-maps/featured-area-settings.php:906
+#: lib/customizer/customizer-maps/featured-area-settings.php:993
+#: lib/customizer/customizer-maps/footer-settings.php:247
+#: lib/customizer/customizer-maps/general-layout-settings.php:210
+#: lib/customizer/customizer-maps/general-layout-settings.php:278
+#: lib/customizer/customizer-maps/header-settings.php:1206
+#: lib/customizer/customizer-maps/header-settings.php:1344
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:660
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:746
+#: lib/customizer/customizer-maps/layout-settings.php:821
+#: lib/customizer/customizer-maps/layout-settings.php:944
+#: lib/customizer/customizer-maps/layout-settings.php:1568
+#: lib/customizer/customizer-maps/layout-settings.php:1653
+#: lib/customizer/customizer-maps/layout-settings.php:1738
+#: lib/customizer/customizer-maps/layout-settings.php:1825
+#: lib/customizer/customizer-maps/layout-settings.php:2534
+#: lib/customizer/customizer-maps/layout-settings.php:2619
+#: lib/customizer/customizer-maps/layout-settings.php:2704
+#: lib/customizer/customizer-maps/layout-settings.php:2791
+#: lib/customizer/customizer-maps/promotional-block-settings.php:188
+msgid "Add letter spacing like 1px."
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:758
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:366
+#: lib/customizer/customizer-maps/custom-color-settings.php:202
+#: lib/customizer/customizer-maps/featured-area-settings.php:836
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:675
+#: lib/customizer/customizer-maps/layout-settings.php:1583
+#: lib/customizer/customizer-maps/layout-settings.php:2549
+#: lib/customizer/customizer-maps/promotional-block-settings.php:203
+msgid "Title Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:776
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:383
+#: lib/customizer/customizer-maps/featured-area-settings.php:853
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:692
+#: lib/customizer/customizer-maps/layout-settings.php:1600
+#: lib/customizer/customizer-maps/layout-settings.php:2566
+msgid "Title Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:792
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:398
+#: lib/customizer/customizer-maps/custom-color-settings.php:217
+#: lib/customizer/customizer-maps/featured-area-settings.php:868
+#: lib/customizer/customizer-maps/layout-settings.php:1615
+#: lib/customizer/customizer-maps/layout-settings.php:2581
+msgid "Meta Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:810
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:415
+#: lib/customizer/customizer-maps/custom-color-settings.php:234
+#: lib/customizer/customizer-maps/featured-area-settings.php:885
+#: lib/customizer/customizer-maps/layout-settings.php:1632
+#: lib/customizer/customizer-maps/layout-settings.php:2598
+msgid "Meta Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:828
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:432
+#: lib/customizer/customizer-maps/custom-color-settings.php:251
+#: lib/customizer/customizer-maps/featured-area-settings.php:902
+#: lib/customizer/customizer-maps/layout-settings.php:1649
+#: lib/customizer/customizer-maps/layout-settings.php:2615
+msgid "Meta Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:848
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:451
+#: lib/customizer/customizer-maps/custom-color-settings.php:270
+#: lib/customizer/customizer-maps/featured-area-settings.php:921
+#: lib/customizer/customizer-maps/layout-settings.php:1668
+#: lib/customizer/customizer-maps/layout-settings.php:2634
+msgid "Meta Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:866
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:468
+#: lib/customizer/customizer-maps/custom-color-settings.php:287
+#: lib/customizer/customizer-maps/featured-area-settings.php:938
+#: lib/customizer/customizer-maps/layout-settings.php:1685
+#: lib/customizer/customizer-maps/layout-settings.php:2651
+msgid "Meta Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:882
+#: lib/customizer/customizer-maps/layout-settings.php:1700
+#: lib/customizer/customizer-maps/layout-settings.php:2666
+#: lib/customizer/customizer-maps/layout-settings.php:2700
+msgid "Comment & Like Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:900
+#: lib/customizer/customizer-maps/layout-settings.php:1717
+#: lib/customizer/customizer-maps/layout-settings.php:2683
+msgid "Comment & Like Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:918
+msgid "Comment & Like Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:938
+#: lib/customizer/customizer-maps/layout-settings.php:1753
+#: lib/customizer/customizer-maps/layout-settings.php:2719
+msgid "Comment & Like Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:956
+#: lib/customizer/customizer-maps/layout-settings.php:1770
+#: lib/customizer/customizer-maps/layout-settings.php:2736
+msgid "Comment & Like Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:974
+#: lib/customizer/customizer-maps/custom-color-settings.php:336
+#: lib/customizer/customizer-maps/custom-color-settings.php:460
+#: lib/customizer/customizer-maps/promotional-block-settings.php:88
+msgid "Border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:992
+msgid "Border Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1010
+msgid "Separator Line Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1026
+#: lib/customizer/customizer-maps/featured-area-settings.php:953
+#: lib/customizer/customizer-maps/layout-settings.php:1785
+#: lib/customizer/customizer-maps/layout-settings.php:2751
+msgid "Button Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1044
+#: lib/customizer/customizer-maps/featured-area-settings.php:971
+#: lib/customizer/customizer-maps/layout-settings.php:1803
+#: lib/customizer/customizer-maps/layout-settings.php:2769
+msgid "Button Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1062
+#: lib/customizer/customizer-maps/featured-area-settings.php:989
+#: lib/customizer/customizer-maps/layout-settings.php:1821
+#: lib/customizer/customizer-maps/layout-settings.php:2787
+msgid "Button Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1082
+#: lib/customizer/customizer-maps/featured-area-settings.php:1009
+#: lib/customizer/customizer-maps/layout-settings.php:1841
+#: lib/customizer/customizer-maps/layout-settings.php:2807
+msgid "Button Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1100
+#: lib/customizer/customizer-maps/featured-area-settings.php:1027
+#: lib/customizer/customizer-maps/layout-settings.php:1859
+#: lib/customizer/customizer-maps/layout-settings.php:2825
+msgid "Button Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1118
+#: lib/customizer/customizer-maps/featured-area-settings.php:1045
+#: lib/customizer/customizer-maps/layout-settings.php:1877
+#: lib/customizer/customizer-maps/layout-settings.php:2843
+msgid "Button Border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1136
+#: lib/customizer/customizer-maps/featured-area-settings.php:1063
+#: lib/customizer/customizer-maps/layout-settings.php:1895
+#: lib/customizer/customizer-maps/layout-settings.php:2861
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1154
+#: lib/customizer/customizer-maps/featured-area-settings.php:1081
+#: lib/customizer/customizer-maps/layout-settings.php:1913
+#: lib/customizer/customizer-maps/layout-settings.php:2879
+msgid "Button Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-layout-settings.php:1172
+#: lib/customizer/customizer-maps/featured-area-settings.php:1099
+#: lib/customizer/customizer-maps/layout-settings.php:1931
+#: lib/customizer/customizer-maps/layout-settings.php:2897
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:15
+msgid "Hide Sticky Post"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:110
+msgid "Hide Post Excerpt"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:130
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:167
+msgid "Hide Read More Button"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:330
+msgid "Title line height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:483
+msgid "Author, Read More, Comment & Like Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:500
+msgid "Author, Read More, Comment & Like Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:517
+msgid "Author, Read More, Comment & Like Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:536
+msgid "Author, Read More, Comment & Like Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/blog-sticky-post-layout-settings.php:553
+msgid "Author, Read More, Comment & Like Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:18
+msgid "H1 in logo in front / home page?"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:38
+msgid "Body Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:55
+msgid "Body Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:72
+msgid "Body Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:91
+msgid "Body Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:108
+msgid "Body Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:128
+msgid "Text Transform"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:133
+#: lib/customizer/customizer-maps/header-settings.php:1131
+msgid "Capitalize"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:134
+#: lib/customizer/customizer-maps/header-settings.php:1132
+msgid "Uppercase"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:135
+#: lib/customizer/customizer-maps/header-settings.php:1133
+msgid "Lowercase"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:304
+msgid "Title Wrapper Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:319
+msgid "Title Wrapper Background Image"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:356
+#: lib/customizer/customizer-maps/custom-color-settings.php:480
+msgid "Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:373
+#: lib/customizer/customizer-maps/custom-color-settings.php:497
+msgid "Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:390
+#: lib/customizer/customizer-maps/custom-color-settings.php:514
+msgid "Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:409
+msgid "Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:426
+msgid "Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:443
+msgid "Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:533
+#: lib/customizer/customizer-maps/general-layout-settings.php:293
+msgid "Link Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-color-settings.php:550
+#: lib/customizer/customizer-maps/general-layout-settings.php:310
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:14
+msgid "Disable Google Fonts"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:19
+msgid "On"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:20
+msgid "Off"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:32
+msgid "Main Font"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:48
+msgid "Main Font Weight"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:74
+msgid "Alt Font"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:91
+msgid "Alt Font Weight"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:119
+msgid "Font Languages"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:124
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:125
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:126
+msgid "Greek"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:127
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:128
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/customizer/customizer-maps/custom-font-settings.php:129
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:14
+msgid "Disable Featured Area"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:34
+msgid "Featured Area Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:39
+msgid "Featured Style1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:40
+msgid "Featured Style2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:41
+msgid "Featured Style3"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:42
+msgid "Featured Style4"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:43
+msgid "Featured Style5"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:74
+msgid "Select Featured Category"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:90
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:163
+msgid "Select Order by"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:95
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:168
+msgid "Date"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:96
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:169
+msgid "ID"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:97
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:170
+msgid "Author"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:98
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:171
+#: lib/customizer/customizer-maps/page-not-found-settings.php:29
+msgid "Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:99
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:172
+msgid "Modified Date"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:100
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:173
+msgid "Random"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:101
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:174
+msgid "Comment count"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:102
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:175
+msgid "Menu order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:116
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:189
+msgid "Select Sort Option"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:121
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:194
+msgid "Descending"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:122
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:195
+msgid "Ascending"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:197
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:586
+msgid "Hide Arrow"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:261
+msgid "To hide button, remove the title text."
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:295
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:291
+msgid "No. of items per slide &ndash; Desktop View"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:317
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:314
+msgid "No. of items per slide &ndash; Mini Desktop View"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:339
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:337
+msgid "No. of items per slide &ndash; iPad/Tablet View"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:360
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:359
+msgid "No. of items per slide &ndash; Mobile View"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:379
+msgid "Display number of maximum post in slider"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:397
+msgid "Show Pagination"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:418
+msgid "Pagination Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:423
+msgid "Dot Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:424
+msgid "Line Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:425
+msgid "Round Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:440
+msgid "Pagination Color Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:445
+msgid "Dark Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:446
+msgid "Light Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:461
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:379
+msgid "Show Navigation"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:481
+msgid "Navigation Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:486
+msgid "Next/Prev Style1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:487
+msgid "Next/Prev Style2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:488
+msgid "Next/Prev Style3"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:504
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:400
+msgid "Cursor Color Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:509
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:405
+msgid "Default Cursor"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:510
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:406
+msgid "Dark Cursor"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:511
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:407
+msgid "Light Cursor"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:525
+msgid "Display Single item"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:545
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:422
+msgid "Loop"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:565
+msgid "Animation In"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:582
+msgid "Animation Out"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:599
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:443
+msgid "AutoPlay"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:619
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:464
+msgid "Speed"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:648
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:493
+msgid "Delay"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:682
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:527
+msgid "Stop On Hover"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:703
+#: lib/customizer/customizer-maps/layout-settings.php:202
+#: lib/customizer/customizer-maps/layout-settings.php:767
+#: lib/customizer/customizer-maps/post-social-share-settings.php:434
+msgid "Font & Color Setting"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:720
+msgid "Box background color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:738
+msgid "Overlay Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:754
+msgid "Overlay Opacity"
+msgstr ""
+
+#: lib/customizer/customizer-maps/featured-area-settings.php:759
+#: lib/customizer/customizer-maps/header-settings.php:1279
+#: lib/customizer/customizer-maps/promotional-block-settings.php:126
+msgid "No Opacity"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:17
+msgid "Disable Footer"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:37
+msgid "Footer Layout"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:43
+msgid "Footer Style1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:44
+msgid "Footer Style2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:58
+msgid "Disable Footer Border"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:100
+msgid "Footer Sidebar1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:118
+msgid "Footer Sidebar2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:136
+msgid "Footer Sidebar3"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:154
+msgid "Footer Font and Color Settings"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:172
+msgid "Footer Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:190
+msgid "Footer border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:206
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:224
+msgid "Widget Title Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:242
+msgid "Widget Title Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:261
+msgid "Widget Title Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:277
+msgid "Disable Social icon"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:298
+msgid "Disable All Social icon text"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:319
+#: lib/customizer/customizer-maps/header-settings.php:317
+msgid "Open links in new window?"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:340
+#: lib/customizer/customizer-maps/header-settings.php:338
+#: lib/customizer/customizer-maps/post-social-share-settings.php:34
+#: templates/footer/footer-social-icon.php:81
+msgid "Facebook"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:357
+#: lib/customizer/customizer-maps/header-settings.php:355
+#: lib/customizer/customizer-maps/post-social-share-settings.php:55
+msgid "Facebook order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:376
+#: lib/customizer/customizer-maps/header-settings.php:374
+#: lib/customizer/customizer-maps/post-social-share-settings.php:74
+#: templates/footer/footer-social-icon.php:94
+msgid "Twitter"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:393
+#: lib/customizer/customizer-maps/header-settings.php:391
+#: lib/customizer/customizer-maps/post-social-share-settings.php:95
+msgid "Twitter order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:412
+#: lib/customizer/customizer-maps/header-settings.php:410
+#: lib/customizer/customizer-maps/post-social-share-settings.php:114
+msgid "Google Plus"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:429
+#: lib/customizer/customizer-maps/header-settings.php:427
+#: lib/customizer/customizer-maps/post-social-share-settings.php:135
+msgid "Google Plus order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:448
+#: lib/customizer/customizer-maps/header-settings.php:446
+#: lib/customizer/customizer-maps/post-social-share-settings.php:154
+#: templates/footer/footer-social-icon.php:122
+msgid "Linkedin"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:465
+#: lib/customizer/customizer-maps/header-settings.php:463
+#: lib/customizer/customizer-maps/post-social-share-settings.php:175
+msgid "Linkedin order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:484
+#: lib/customizer/customizer-maps/header-settings.php:482
+#: templates/footer/footer-social-icon.php:136
+msgid "Instagram"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:501
+#: lib/customizer/customizer-maps/header-settings.php:499
+msgid "Instagram order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:520
+#: lib/customizer/customizer-maps/header-settings.php:518
+#: lib/customizer/customizer-maps/post-social-share-settings.php:194
+#: templates/footer/footer-social-icon.php:150
+msgid "Pinterest"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:537
+#: lib/customizer/customizer-maps/header-settings.php:535
+#: lib/customizer/customizer-maps/post-social-share-settings.php:215
+msgid "Pinterest order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:556
+#: templates/footer/footer-social-icon.php:164
+msgid "Rss"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:573
+#: lib/customizer/customizer-maps/header-settings.php:571
+msgid "RSS order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:592
+#: lib/customizer/customizer-maps/header-settings.php:590
+#: templates/footer/footer-social-icon.php:178
+msgid "Youtube"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:609
+#: lib/customizer/customizer-maps/header-settings.php:607
+msgid "Youtube order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:628
+#: lib/customizer/customizer-maps/header-settings.php:626
+#: templates/footer/footer-social-icon.php:192
+msgid "Bloglovin"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:645
+#: lib/customizer/customizer-maps/header-settings.php:643
+msgid "Bloglovin order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:664
+#: lib/customizer/customizer-maps/header-settings.php:662
+#: lib/customizer/customizer-maps/post-social-share-settings.php:234
+#: templates/footer/footer-social-icon.php:206
+msgid "Tumblr"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:681
+#: lib/customizer/customizer-maps/header-settings.php:679
+#: lib/customizer/customizer-maps/post-social-share-settings.php:255
+msgid "Tumblr order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:700
+#: lib/customizer/customizer-maps/header-settings.php:698
+#: templates/footer/footer-social-icon.php:220
+msgid "Dribbble"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:717
+#: lib/customizer/customizer-maps/header-settings.php:715
+msgid "Dribbble order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:736
+#: lib/customizer/customizer-maps/header-settings.php:734
+#: templates/footer/footer-social-icon.php:234
+msgid "Soundcloud"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:753
+#: lib/customizer/customizer-maps/header-settings.php:751
+msgid "Soundcloud order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:772
+#: lib/customizer/customizer-maps/header-settings.php:770
+#: templates/footer/footer-social-icon.php:248
+msgid "Vimeo"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:789
+#: lib/customizer/customizer-maps/header-settings.php:787
+msgid "Vimeo order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:808
+#: lib/customizer/customizer-maps/header-settings.php:806
+#: templates/footer/footer-social-icon.php:262
+msgid "Flickr"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:825
+#: lib/customizer/customizer-maps/header-settings.php:823
+msgid "Flickr order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:844
+#: lib/customizer/customizer-maps/header-settings.php:842
+msgid "Custom Link"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:884
+msgid "Copyright"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:901
+msgid "Disable ScrollToTop Button"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:922
+msgid "Left Side ScrollToTop"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:944
+msgid "ScrollToTop arrow color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:961
+msgid "ScrollToTop arrow hover color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:978
+msgid "ScrollToTop background color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/footer-settings.php:995
+msgid "ScrollToTop background hover color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:14
+msgid "Theme Type"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:19
+msgid "Theme Yellow"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:20
+msgid "Theme Orange"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:21
+msgid "Theme Blue"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:22
+msgid "Theme Deep Green"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:23
+msgid "Theme Turquoise Blue"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:24
+msgid "Theme Fast Red"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:25
+#: lib/customizer/customizer-maps/general-layout-settings.php:39
+msgid "Theme Custom Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:55
+msgid "Manage Sidebars"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:57
+msgid ""
+"You can add widgets in these sidebars at Appearance > Widgets and these "
+"sidebars can be assigned in header, footer, pages and posts."
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:74
+msgid "Disable Page Smooth Scroll"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:94
+msgid "Remove Third Party Font Awesome Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:114
+msgid "Pagination Types"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:119
+msgid "Old And New"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:120
+msgid "Number Pagination"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:121
+msgid "Infinite Scroll"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:135
+msgid "Sidebar Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:140
+msgid "Sidebar Style1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:141
+msgid "Sidebar Style2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:142
+msgid "Sidebar Style3"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:143
+msgid "Sidebar Style4"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:157
+msgid "Sidebar Color Setting"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:225
+msgid "Title Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:240
+msgid "Link Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:257
+msgid "Link Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:274
+msgid "Link Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:327
+msgid "Border color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/general-layout-settings.php:345
+msgid "Background color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:14
+msgid "Disable Header"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:34
+msgid "Non Sticky Header"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:55
+msgid "Header Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:61
+msgid "Header Style1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:62
+msgid "Header Style2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:63
+msgid "Header Style3"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:64
+msgid "Header Style4"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:65
+msgid "Header Style5"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:100
+msgid "Navigation Position"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:106
+msgid "Above Logo"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:107
+msgid "Below Logo"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:121
+msgid "Color Settings"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:139
+msgid "Header Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:157
+msgid "Header Border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:175
+msgid "Mobile Sub Menu Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:193
+msgid "Mobile Menu Toggle Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:211
+msgid "Mobile Menu Toggle Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:227
+msgid "Logo"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:228
+msgid "Upload the logo that will be displayed in the header."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:244
+msgid "Logo (Light)"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:245
+msgid ""
+"Upload the logo light image which will be displayed in the website header in "
+"scrolled version header."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:261
+msgid "Logo Retina"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:262
+#: lib/customizer/customizer-maps/header-settings.php:279
+msgid ""
+"Optional retina version displayed in devices with retina display (high "
+"resolution display)."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:278
+msgid "Logo Retina (Light)"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:295
+msgid "Disable Social icons"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:296
+msgid "If No, Social icons will be displayed in header."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:554
+msgid "RSS"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:847
+msgid "Add HTML content below to add other social media icons and links."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:876
+msgid "Social Icons Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:894
+msgid "Social Icons Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:912
+msgid "Social Icons Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:916
+#: lib/customizer/customizer-maps/header-settings.php:1398
+msgid "Add letter spacing like 12px."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:932
+msgid "Social Icons Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:948
+msgid "Enable Header Left Sidebar"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:949
+msgid "If you want header Left sidebar enable this setting."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:970
+msgid "Header Left Sidebar"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:988
+msgid "Disable Search"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:989
+msgid "If No, search module will be displayed in header section."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1010
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1027
+msgid "Color Setting"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1045
+msgid "Search Icon Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1061
+msgid "Enable Header Right Sidebar"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1062
+msgid "If you want header right sidebar enable this setting."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1083
+msgid "Header Right Sidebar"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1124
+msgid "Navbar Text Transform"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1129
+msgid "Insert the text transform you want. e.g. \"Uppercase\"."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1149
+msgid "Navigation Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1165
+msgid "Navigation Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1183
+msgid "Navigation Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1188
+#: lib/customizer/customizer-maps/header-settings.php:1326
+msgid "Add line height like 20px."
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1201
+msgid "Navigation Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1221
+msgid "Navigation Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1239
+msgid "Navigation Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1256
+msgid "Navigation Submenu Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1273
+msgid "Submenu Background Opacity"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1303
+msgid "Submenu Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1321
+msgid "Submenu Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1339
+msgid "Submenu Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1357
+msgid "Megamenu Title Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1375
+msgid "Megamenu Title Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1393
+msgid "Megamenu Title Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1412
+msgid "Megamenu Title Border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1429
+msgid "Navigation Submenu Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/header-settings.php:1447
+msgid "Navigation Submenu Text Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:14
+msgid "Hide Image Alt"
+msgstr ""
+
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:34
+msgid "Hide Image Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:54
+msgid "Hide Image Title in Lightbox Popup"
+msgstr ""
+
+#: lib/customizer/customizer-maps/image-meta-data-settings.php:74
+msgid "Hide Image Caption in Lightbox Popup"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:14
+msgid "Disable Latest / Popular Post Block"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:51
+msgid "Latest / Popular Block Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:67
+msgid "Hide Block Title Border"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:87
+msgid "Latest/Popular Post Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:92
+msgid "Latest/Popular Block Style1"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:93
+msgid "Latest/Popular Block Style2"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:127
+msgid "Latest/Popular Block Display Style"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:132
+#: lib/customizer/customizer-maps/layout-settings.php:1105
+#: lib/customizer/customizer-maps/layout-settings.php:2020
+#: lib/paperio-extra-functions.php:934 lib/paperio-extra-functions.php:1017
+msgid "Grid"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:133
+msgid "Slider"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:147
+msgid "Select Category"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:268
+msgid "No. of items per row"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:548
+msgid "Display number of maximum post in slider / Grid"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:566
+msgid "Full Post Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:708
+msgid "Date Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:725
+msgid "Date Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:742
+msgid "Date Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/latest-popular-post-settings.php:760
+msgid "Date Text Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:103
+msgid "Page Breadcrumb Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:120
+msgid "Hide Page Title Wrapper"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:140
+#: lib/customizer/customizer-maps/layout-settings.php:445
+#: lib/customizer/customizer-maps/layout-settings.php:1281
+#: lib/customizer/customizer-maps/layout-settings.php:2247
+msgid "Hide Breadcrumb Navigation"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:160
+msgid "Hide Breadcrumb Page Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:181
+#: lib/customizer/customizer-maps/layout-settings.php:747
+msgid "Hide Comment"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:189
+msgid ""
+"( if page comment is off in WordPress then it cannot be switched on here. )"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:205
+#: lib/customizer/customizer-maps/layout-settings.php:770
+#: lib/customizer/customizer-maps/layout-settings.php:1517
+#: lib/customizer/customizer-maps/layout-settings.php:2483
+#, php-format
+msgid "For Title wrapper color setting <a href=\"%s\">Click here</a>."
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:205
+#: lib/customizer/customizer-maps/layout-settings.php:770
+#: lib/customizer/customizer-maps/layout-settings.php:1517
+#: lib/customizer/customizer-maps/layout-settings.php:2483
+#, php-format
+msgid "For Breadcrumb color setting <a href=\"%s\">Click here</a>."
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:205
+#: lib/customizer/customizer-maps/layout-settings.php:770
+#, php-format
+msgid "For Content Font Size and Color setting <a href=\"%s\">Click here</a>."
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:254
+#: lib/customizer/customizer-maps/layout-settings.php:1168
+#: lib/customizer/customizer-maps/layout-settings.php:2083
+#: lib/paperio-extra-functions.php:957 lib/paperio-extra-functions.php:1048
+msgid "Three Columns"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:425
+msgid "Hide Post Title Wrapper"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:465
+msgid "Hide Breadcrumb Post Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:486
+msgid "Hide Tags"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:546
+msgid "Hide Share"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:566
+msgid "Hide Post Author Box"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:586
+msgid "Hide Related Posts"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:606
+msgid "Related Post Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:641
+msgid "No. of Related Posts"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:666
+msgid "Related Post Full Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:708
+msgid "Hide Related Post Date"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:729
+msgid "Related Post Date Format"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:783
+msgid "Tag, Comment, Like Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:800
+msgid "Tag, Comment, Like Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:817
+msgid "Tag, Comment, Like Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:836
+msgid "Tag, Comment, Like Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:853
+msgid "Tag, Comment, Like Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:869
+msgid "Tag, Comment, Like Border Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:891
+msgid "Author Box Background Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:906
+msgid "Author Box Title Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:923
+msgid "Author Box Title Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:940
+msgid "Author Box Title Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:959
+msgid "Author Box Title Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:976
+msgid "Author Box Title Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:991
+msgid "Author Box Social Icon Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1008
+msgid "Author Box Social Icon Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1025
+msgid "Author Box Social Icon Character Spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1029
+msgid "Add character spacing like 1px."
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1100
+#: lib/paperio-extra-functions.php:931 lib/paperio-extra-functions.php:1012
+msgid "Category Type"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1106
+#: lib/customizer/customizer-maps/layout-settings.php:2021
+#: lib/paperio-extra-functions.php:935 lib/paperio-extra-functions.php:1018
+msgid "Masonry"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1107
+#: lib/customizer/customizer-maps/layout-settings.php:2022
+#: lib/paperio-extra-functions.php:936 lib/paperio-extra-functions.php:1019
+msgid "List"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1244
+#: lib/paperio-extra-functions.php:989 lib/paperio-extra-functions.php:1096
+msgid "Category Breadcrumb Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1261
+msgid "Hide Category Title Wrapper"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1416
+msgid "Button Text "
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1494
+#: lib/customizer/customizer-maps/layout-settings.php:2460
+msgid "Hide Post Format"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:1734
+msgid "Comment & Like Character spacing"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2015
+msgid "Archive Type"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2159
+msgid "Tag Breadcrumb Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2176
+msgid "Author Breadcrumb Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2193
+msgid "Date Breadcrumb Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2210
+msgid "Search Breadcrumb Title"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2227
+msgid "Hide Archive Title Wrapper"
+msgstr ""
+
+#: lib/customizer/customizer-maps/layout-settings.php:2267
+msgid "Hide Post Category"
+msgstr ""
+
+#: lib/customizer/customizer-maps/page-not-found-settings.php:14
+msgid "Image "
+msgstr ""
+
+#: lib/customizer/customizer-maps/page-not-found-settings.php:46
+msgid "Subtitle"
+msgstr ""
+
+#: lib/customizer/customizer-maps/page-not-found-settings.php:100
+msgid "Button Url"
+msgstr ""
+
+#: lib/customizer/customizer-maps/page-not-found-settings.php:117
+msgid "Hide Search"
+msgstr ""
+
+#: lib/customizer/customizer-maps/page-not-found-settings.php:137
+msgid "Search Placeholder text"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:14
+msgid "Disable Social Share"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:274
+msgid "Delicious"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:295
+msgid "Delicious order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:314
+msgid "Reddit"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:335
+msgid "Reddit order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:354
+msgid "StumbleUpon"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:375
+msgid "StumbleUpon order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:394
+msgid "Digg"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:415
+msgid "Digg order"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:450
+msgid "Icon Font Size"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:468
+msgid "Icon Line Height"
+msgstr ""
+
+#: lib/customizer/customizer-maps/post-social-share-settings.php:488
+msgid "Icon Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/promotional-block-settings.php:14
+msgid "Disable Promotional Block"
+msgstr ""
+
+#: lib/customizer/customizer-maps/promotional-block-settings.php:54
+msgid "Promotional Block Shortcode"
+msgstr ""
+
+#: lib/customizer/customizer-maps/promotional-block-settings.php:55
+#, php-format
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\">click here</a> to know how to "
+"generate promotional blocks using our shortcode."
+msgstr ""
+
+#: lib/customizer/customizer-maps/promotional-block-settings.php:105
+msgid "Box Hover Color"
+msgstr ""
+
+#: lib/customizer/customizer-maps/promotional-block-settings.php:121
+msgid "Box Hover Color Opacity"
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:15
+msgid " Favicon "
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:16
+msgid "Favicon for your website (32px x 32px)."
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:32
+msgid " Apple iPhone Icon "
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:33
+msgid "Favicon for apple iPhone (57px x 57px)."
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:49
+msgid " Apple iPhone Retina Icon "
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:50
+msgid "Favicon for apple iPhone retina version (149px x 149px)."
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:66
+msgid " Apple iPad Icon "
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:67
+msgid "Favicon for apple iPad (72px x 72px)."
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:83
+msgid " Apple iPad Retina Icon "
+msgstr ""
+
+#: lib/customizer/customizer-maps/site-settings.php:84
+msgid "Favicon for apple iPad retina version (149px x 149px)."
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:17
+msgid "General Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:24
+msgid "Blog Home Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:31
+msgid "Blog Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:38
+msgid "Sticky Posts Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:45
+#: lib/customizer/paperio-customizer.php:52
+msgid "Header"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:59
+msgid "Logo & Favicon"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:67
+msgid "Social Icons"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:75 lib/paperio-breadcrumb.php:53
+#: searchform.php:11 searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:83
+msgid "Navigations"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:90
+#: lib/customizer/paperio-customizer.php:97
+msgid "Page Layout Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:104
+msgid "Post Layout Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:111
+msgid "Category Layout Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:118
+msgid "Archive Layout Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:126
+msgid "Featured Area"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:134
+msgid "Latest/Popular Post Block"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:141
+msgid "Promotional Block"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:148
+#: lib/customizer/paperio-customizer.php:155
+msgid "Footer"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:162
+msgid "Footer Social Icon"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:169
+msgid "Footer Copyright"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:176
+msgid "404 Page Setting"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:183
+msgid "Image Meta Data Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:190
+msgid "Post Social Share Settings"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:197
+msgid "Font and Color Setting"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:203
+msgid "Font Family"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:211
+msgid "General"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:218
+msgid "Title Wrapper"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:225
+msgid "Breadcrumb"
+msgstr ""
+
+#: lib/customizer/paperio-customizer.php:232
+msgid "Content"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:164
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:168
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:181
+msgid "sub item"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:196
+msgid "Move up"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:209
+msgid "Move down"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:211
+msgid "Edit Menu Item"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:213
+msgid "Edit"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:222
+msgid "URL"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:229
+msgid "Navigation Label"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:235
+msgid "Title Attribute"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:242
+msgid "Open link in a new tab"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:247
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:253
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:259
+msgid "Description"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:261
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:279
+msgid "Enable Paperio Mega Menu For This Item (only for main parent)"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:284
+msgid "Select Mega Menu Number of Columns"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:297
+msgid "Enable Paperio Mega Menu Title For This Item."
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:303
+msgid ""
+"Select Mega Menu Item Sidebar( If sidebar selected then menu title will "
+"remove only shows sidebar on menu)."
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:308
+msgid "Select Widget Area"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:326
+msgid "Move"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:327
+msgid "Up one"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:328
+msgid "Down one"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:331
+msgid "To the top"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:338
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:351
+#: lib/paperio-enqueue-scripts-styles.php:159
+msgid "Remove"
+msgstr ""
+
+#: lib/mega-menu/admin-mega-menu-addon.php:352
+msgid "Cancel"
+msgstr ""
+
+#: lib/paperio-breadcrumb.php:42 lib/paperio-extra-functions.php:1136
+#: lib/paperio-extra-functions.php:1137
+msgid "Home"
+msgstr ""
+
+#: lib/paperio-breadcrumb.php:46
+msgid "Weblog"
+msgstr ""
+
+#: lib/paperio-breadcrumb.php:63
+msgid "Browse to: "
+msgstr ""
+
+#: lib/paperio-breadcrumb.php:75
+msgid "Tag: "
+msgstr ""
+
+#: lib/paperio-breadcrumb.php:79
+msgid "404"
+msgstr ""
+
+#: lib/paperio-breadcrumb.php:81
+msgid "Portfolio"
+msgstr ""
+
+#: lib/paperio-enqueue-scripts-styles.php:126
+msgid "All Post Loaded"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:345
+msgid "&mdash; No Select &mdash;"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:373
+msgid "&mdash; All Categories &mdash;"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:577
+msgid "Add More"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:611
+msgid "Tags:"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:678
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:678
+msgid "(Edit)"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:684
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/paperio-extra-functions.php:790 lib/paperio-extra-functions.php:933
+#: lib/paperio-extra-functions.php:943 lib/paperio-extra-functions.php:953
+#: lib/paperio-extra-functions.php:982 lib/paperio-extra-functions.php:1016
+#: lib/paperio-extra-functions.php:1030 lib/paperio-extra-functions.php:1044
+#: lib/paperio-extra-functions.php:1059 lib/paperio-extra-functions.php:1073
+#: lib/paperio-extra-functions.php:1087
+msgid "Default"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:805
+msgid "No Sidebar"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:853
+msgid "New Post"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:858 lib/paperio-extra-functions.php:912
+msgid "Older Post"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:951 lib/paperio-extra-functions.php:1040
+msgid "Sidebar Setting"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1073
+msgid "default"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1710
+msgid "0 View"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1713
+msgid " View"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1741
+msgid "Views"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1845 lib/paperio-extra-functions.php:1846
+msgid "Auto"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1848
+msgid "Original Full Size"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1886
+msgid "no style"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1887
+msgid "bounce"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1888
+msgid "flash"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1889
+msgid "pulse"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1890
+msgid "rubberBand"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1891
+msgid "shake"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1892
+msgid "swing"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1893
+msgid "tada"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1894
+msgid "wobble"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1895
+msgid "jello"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1896
+msgid "bounceIn"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1897
+msgid "bounceInDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1898
+msgid "bounceInLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1899
+msgid "bounceInRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1900
+msgid "bounceInUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1901
+msgid "bounceOut"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1902
+msgid "bounceOutDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1903
+msgid "bounceOutLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1904
+msgid "bounceOutRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1905
+msgid "bounceOutUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1906
+msgid "fadeIn"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1907
+msgid "fadeInDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1908
+msgid "fadeInDownBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1909
+msgid "fadeInLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1910
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1911
+msgid "fadeInRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1912
+msgid "fadeInRightBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1913
+msgid "fadeInUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1914
+msgid "fadeInUpBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1915
+msgid "fadeOut"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1916
+msgid "fadeOutDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1917
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1918
+msgid "fadeOutLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1919
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1920
+msgid "fadeOutRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1921
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1922
+msgid "fadeOutUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1923
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1924
+msgid "flipInX"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1925
+msgid "flipInY"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1926
+msgid "flipOutX"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1927
+msgid "flipOutY"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1928
+msgid "lightSpeedIn"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1929
+msgid "lightSpeedOut"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1930
+msgid "rotateIn"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1931
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1932
+msgid "rotateInDownRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1933
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1934
+msgid "rotateInUpRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1935
+msgid "rotateOut"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1936
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1937
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1938
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1939
+msgid "hinge"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1940
+msgid "rollIn"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1941
+msgid "rollOut"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1942
+msgid "zoomIn"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1943
+msgid "zoomInDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1944
+msgid "zoomInLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1945
+msgid "zoomInRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1946
+msgid "zoomInUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1947
+msgid "zoomOut"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1948
+msgid "zoomOutDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1949
+msgid "zoomOutLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1950
+msgid "zoomOutRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1951
+msgid "zoomOutUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1952
+msgid "slideInDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1953
+msgid "slideInLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1954
+msgid "slideInRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1955
+msgid "slideInUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1956
+msgid "slideOutDown"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1957
+msgid "slideOutLeft"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1958
+msgid "slideOutRight"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:1959
+msgid "slideOutUp"
+msgstr ""
+
+#: lib/paperio-extra-functions.php:2059
+msgid ""
+"Please activate your Paperio WordPress theme license to unlock Paperio "
+"premium features."
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:18
+#: lib/paperio-licence-activation/paperio-licence-activation.php:19
+msgid "Theme Licence"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:33
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:50
+#: lib/paperio-licence-activation/paperio-licence-activation.php:100
+msgid "Online Documentation"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:50
+#: lib/paperio-licence-activation/paperio-licence-activation.php:103
+msgid "Support Center"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:57
+msgid "Paperio logo"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:60
+msgid "Welcome to Paperio - Responsive and Multipurpose WordPress Blog Theme"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:66
+msgid ""
+"Welcome to Paperio WordPress theme. Please activate your Paperio theme "
+"license copy and enjoy premium features."
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:71
+msgid ""
+"Awesome! Your Paperio WordPress theme license is activated already. Enjoy "
+"premium features of Paperio."
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:92
+msgid "Activate Paperio WordPress Theme License"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:93
+msgid "Spinner"
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:94
+msgid ""
+"Activate your Paperio theme license using above button to unlock Paperio "
+"premium features like demo data import. Please note that you will need to "
+"login to your ThemeForest account from which you have purchased Paperio "
+"theme and allow the access to verify your theme purchase."
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:95
+msgid "For more details please check this article."
+msgstr ""
+
+#: lib/paperio-licence-activation/paperio-licence-activation.php:106
+msgid "Video Tutorials"
+msgstr ""
+
+#: lib/paperio-require-files.php:16
+msgid "File is not found in folder as you given"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:393
+#: lib/tgm/class-tgm-plugin-activation.php:903
+#: lib/tgm/class-tgm-plugin-activation.php:2609
+#: lib/tgm/class-tgm-plugin-activation.php:3656
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:394
+#: lib/tgm/class-tgm-plugin-activation.php:3235
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+#: lib/tgm/class-tgm-plugin-activation.php:3028
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:598
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:599
+msgid "Update Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1010
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1010
+#: lib/tgm/class-tgm-plugin-activation.php:1013
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1013
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2058
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2349
+msgid "Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2352
+msgid "Recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2368
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2371
+msgid "External Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2374
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2391
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2395
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2397
+msgid "Active"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2403
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Requires Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2409
+msgid "Update recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2418
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2464
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2468
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2472
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2476
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2558
+msgid "unknown"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2566
+msgid "Installed version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2574
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2586
+msgid "Available version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2609
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2623
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2624
+msgid "Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2625
+msgid "Type"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2629
+msgid "Version"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2630
+msgid "Status"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2679
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2690
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2760
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2793
+msgid "Install"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2799
+msgid "Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "Activate"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2833
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2835
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2876
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2878
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2984
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3010
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3234
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3583
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3585
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3585
+#: lib/tgm/class-tgm-plugin-activation.php:3593
+msgid "Show Details"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3585
+#: lib/tgm/class-tgm-plugin-activation.php:3593
+msgid "Hide Details"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3586
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3591
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3594
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/tgm-init.php:17
+msgid "Paperio Addons"
+msgstr ""
+
+#: lib/tgm/tgm-init.php:27
+msgid "Contact Form 7"
+msgstr ""
+
+#: lib/tgm/tgm-init.php:32
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: page.php:114 single.php:131
+msgid "Pages:"
+msgstr ""
+
+#: single.php:91 templates/blog-layout/blog-layout-five.php:194
+#: templates/blog-layout/blog-layout-four.php:119
+#: templates/blog-layout/blog-layout-three.php:78
+#: templates/blog-layout/blog-layout-two.php:83
+msgid "By "
+msgstr ""
+
+#: single.php:151
+msgid "<i class=\"far fa-comment\"></i><span>Leave a comment</span>"
+msgstr ""
+
+#: single.php:151 templates/archive/grid-layout.php:124
+#: templates/archive/list-layout.php:117
+#: templates/archive/masonry-layout.php:124
+#: templates/blog-layout/blog-layout-five.php:162
+#: templates/blog-layout/blog-layout-five.php:224
+#: templates/blog-layout/blog-layout-one.php:130
+#: templates/blog-layout/blog-layout-six.php:128
+#: templates/blog-layout/blog-layout-three.php:115
+#: templates/blog-layout/blog-layout-two.php:114
+#: templates/blog-layout/blog-sticky-post.php:118
+#: templates/category/grid-layout.php:119
+#: templates/category/list-layout.php:112
+#: templates/category/masonry-layout.php:119
+msgid "<i class=\"far fa-comment\"></i><span>1 Comment</span>"
+msgstr ""
+
+#: single.php:151 templates/archive/grid-layout.php:124
+#, php-format
+msgid "<i class=\"far fa-comment\"></i><span>% comments</span>"
+msgstr ""
+
+#: templates/archive/grid-layout.php:124 templates/archive/list-layout.php:117
+#: templates/archive/masonry-layout.php:124
+#: templates/category/grid-layout.php:119
+#: templates/category/list-layout.php:112
+#: templates/category/masonry-layout.php:119
+msgid "<i class=\"far fa-comment\"></i><span>No Comment</span>"
+msgstr ""
+
+#: templates/archive/layout.php:29
+msgid "Y"
+msgstr ""
+
+#: templates/archive/layout.php:32
+msgid "F Y"
+msgstr ""
+
+#: templates/archive/layout.php:41
+msgid "Archives"
+msgstr ""
+
+#: templates/archive/layout.php:42
+msgid "All Posts"
+msgstr ""
+
+#: templates/archive/list-layout.php:117
+#: templates/archive/masonry-layout.php:124
+#: templates/blog-layout/blog-layout-five.php:162
+#: templates/blog-layout/blog-layout-five.php:224
+#: templates/blog-layout/blog-layout-one.php:130
+#: templates/blog-layout/blog-layout-six.php:128
+#: templates/blog-layout/blog-layout-three.php:115
+#: templates/blog-layout/blog-layout-two.php:114
+#: templates/blog-layout/blog-sticky-post.php:118
+#: templates/category/grid-layout.php:119
+#: templates/category/list-layout.php:112
+#: templates/category/masonry-layout.php:119
+msgid "<i class=\"far fa-comment\"></i><span>% Comments</span>"
+msgstr ""
+
+#: templates/blog-layout/blog-layout-five.php:147
+#: templates/blog-layout/blog-sticky-post.php:103
+msgid "By"
+msgstr ""
+
+#: templates/blog-layout/blog-layout-five.php:162
+#: templates/blog-layout/blog-layout-five.php:224
+#: templates/blog-layout/blog-layout-one.php:130
+#: templates/blog-layout/blog-layout-six.php:128
+#: templates/blog-layout/blog-layout-three.php:115
+#: templates/blog-layout/blog-layout-two.php:114
+#: templates/blog-layout/blog-sticky-post.php:118
+msgid "<i class=\"far fa-comment\"></i><span>0 Comment</span>"
+msgstr ""
+
+#: templates/blog-layout/content-none.php:12 templates/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/blog-layout/content-none.php:14 templates/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/featured-slider/content.php:117
+#: templates/latest-popular-post/content.php:169
+#: templates/latest-popular-post/content.php:336
+msgid "Prevoius"
+msgstr ""
+
+#: templates/featured-slider/content.php:117
+#: templates/latest-popular-post/content.php:169
+#: templates/latest-popular-post/content.php:336
+msgid "Next"
+msgstr ""
+
+#: templates/footer/footer-social-icon.php:108
+msgid "Google plus"
+msgstr ""
+
+#: templates/header/header-menu.php:4
+msgid "Toggle navigation"
+msgstr ""
+
+#: templates/page-not-found/content.php:55
+msgid "or"
+msgstr ""

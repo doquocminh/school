@@ -1,0 +1,11 @@
+postslug,cat_type,col_type,sidebar_set,left_sidebar,right_sidebar,container_fluid,breadcrumb_title
+sidebar-left,grid,two-columns,paperio_layout_left_sidebar,sidebar-1,default,default,
+sidebar-right,grid,two-columns,paperio_layout_right_sidebar,default,sidebar-1,default,
+grid-two-column,grid,two-columns,paperio_layout_full_screen_12col,default,default,default,
+grid-three-column,grid,three-columns,paperio_layout_full_screen_12col,default,default,default,
+grid-four-column,grid,four-columns,paperio_layout_full_screen_12col,default,default,default,
+masonry-two-column,masonry,two-columns,paperio_layout_full_screen_12col,default,default,default,
+masonry-three-column,masonry,three-columns,paperio_layout_full_screen_12col,default,default,default,
+masonry-four-column,masonry,four-columns,paperio_layout_full_screen_12col,default,default,default,
+list-with-sidebar,list,default,paperio_layout_right_sidebar,default,sidebar-1,default,
+list-no-sidebar,list,default,paperio_layout_full_screen_12col,default,default,default,

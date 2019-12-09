@@ -1,0 +1,25 @@
+<wpml-config>    
+    <admin-texts>
+        <key name="theme_mods_paperio">
+          <key name="tz_general_blog_button_text"/>
+          <key name="tz_general_sticky_blog_button_text"/>
+          <key name="tz_header_seach_placeholder"/>
+          <key name="tz_read_more_text"/>
+          <key name="tz_related_posts_title"/>
+          <key name="tz_category_breadcrumb_title"/>
+          <key name="tz_default_button_text"/>
+          <key name="tz_tag_breadcrumb_title"/>
+          <key name="tz_author_breadcrumb_title"/>
+          <key name="tz_date_breadcrumb_title"/>
+          <key name="tz_search_breadcrumb_title"/>
+          <key name="tz_latest_popular_block_title"/>
+          <key name="tz_footer_copyright"/>
+          <key name="blogname"/>
+          <key name="blogdescription"/>
+          <key name="tz_page_not_found_title"/>
+          <key name="tz_page_not_found_subtitle"/>
+          <key name="tz_page_not_found_button_text"/>
+          <key name="tz_page_not_found_search_placeholder"/>
+      </key>
+    </admin-texts>    
+</wpml-config>

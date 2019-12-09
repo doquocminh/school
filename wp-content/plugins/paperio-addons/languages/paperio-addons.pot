@@ -1,0 +1,1466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paperio Addons\n"
+"POT-Creation-Date: 2019-08-01 16:20+0530\n"
+"PO-Revision-Date: 2019-08-01 16:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: Themezaa\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e;esc_attr__;esc_html__;esc_attr;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/under-maintenance-settings.php:56
+msgid "Under Maintenance"
+msgstr ""
+
+#: customizer/under-maintenance-settings.php:61
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:37
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:46
+#: meta-box/metabox-tabs/metabox_post_setting.php:11
+#: meta-box/metabox-tabs/metabox_post_setting.php:55
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:38
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:46
+#: widgets/paperio-instagram.php:306 widgets/paperio-instagram.php:318
+#: widgets/paperio-instagram.php:352 widgets/paperio-instagram.php:364
+msgid "Yes"
+msgstr ""
+
+#: customizer/under-maintenance-settings.php:62
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:38
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:47
+#: meta-box/metabox-tabs/metabox_post_setting.php:12
+#: meta-box/metabox-tabs/metabox_post_setting.php:54
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:39
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:47
+#: widgets/paperio-instagram.php:307 widgets/paperio-instagram.php:319
+#: widgets/paperio-instagram.php:353 widgets/paperio-instagram.php:365
+msgid "No"
+msgstr ""
+
+#: customizer/under-maintenance-settings.php:73
+msgid "Select Page"
+msgstr ""
+
+#: extend-options/extend-options.php:92
+msgid "Under Construction"
+msgstr ""
+
+#: extend-options/extend-options.php:105 importer/importer.php:35
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:12
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:36
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:45
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:12
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:37
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:45
+msgid "Default"
+msgstr ""
+
+#: extend-options/extend-options.php:118
+msgid "Facebook"
+msgstr ""
+
+#: extend-options/extend-options.php:119
+msgid "Twitter"
+msgstr ""
+
+#: extend-options/extend-options.php:120
+msgid "Google Plus"
+msgstr ""
+
+#: extend-options/extend-options.php:121
+msgid "Linkedin"
+msgstr ""
+
+#: extend-options/extend-options.php:122
+msgid "Instagram"
+msgstr ""
+
+#: extend-options/extend-options.php:123
+msgid "Pinterest"
+msgstr ""
+
+#: extend-options/extend-options.php:124
+msgid "RSS"
+msgstr ""
+
+#: extend-options/extend-options.php:125
+msgid "Youtube"
+msgstr ""
+
+#: extend-options/extend-options.php:126
+msgid "Bloglovin"
+msgstr ""
+
+#: extend-options/extend-options.php:127
+msgid "Tumblr"
+msgstr ""
+
+#: extend-options/extend-options.php:128
+msgid "dribbble"
+msgstr ""
+
+#: extend-options/extend-options.php:129
+msgid "Soundcloud"
+msgstr ""
+
+#: extend-options/extend-options.php:130
+msgid "Vimeo"
+msgstr ""
+
+#: extend-options/extend-options.php:131
+msgid "Flickr"
+msgstr ""
+
+#: extend-options/extend-options.php:161
+msgid "Paperio Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:167
+msgid "General Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:173
+msgid "Blog Home Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:179
+msgid "Blog Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:185
+msgid "Sticky Posts Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:192 extend-options/extend-options.php:198
+msgid "Header"
+msgstr ""
+
+#: extend-options/extend-options.php:204
+msgid "Logo & Favicon"
+msgstr ""
+
+#: extend-options/extend-options.php:210
+msgid "Social Icons"
+msgstr ""
+
+#: extend-options/extend-options.php:216
+msgid "Search"
+msgstr ""
+
+#: extend-options/extend-options.php:222
+msgid "Navigations"
+msgstr ""
+
+#: extend-options/extend-options.php:229 extend-options/extend-options.php:235
+msgid "Page Layout Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:241
+msgid "Post Layout Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:247
+msgid "Category Layout Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:253
+msgid "Archive Layout Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:260
+msgid "Featured Area"
+msgstr ""
+
+#: extend-options/extend-options.php:267
+msgid "Latest/Popular Post Block"
+msgstr ""
+
+#: extend-options/extend-options.php:274
+msgid "Promotional Block"
+msgstr ""
+
+#: extend-options/extend-options.php:281 extend-options/extend-options.php:287
+msgid "Footer"
+msgstr ""
+
+#: extend-options/extend-options.php:293
+msgid "Footer Social Icon"
+msgstr ""
+
+#: extend-options/extend-options.php:299
+msgid "Footer Copyright"
+msgstr ""
+
+#: extend-options/extend-options.php:306
+msgid "404 Page Setting"
+msgstr ""
+
+#: extend-options/extend-options.php:313
+msgid "Image Meta Data Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:320
+msgid "Post Social Share Settings"
+msgstr ""
+
+#: extend-options/extend-options.php:327
+msgid "Font and Color Setting"
+msgstr ""
+
+#: extend-options/extend-options.php:333
+msgid "Font Family"
+msgstr ""
+
+#: extend-options/extend-options.php:339
+msgid "General"
+msgstr ""
+
+#: extend-options/extend-options.php:345
+msgid "Title Wrapper"
+msgstr ""
+
+#: extend-options/extend-options.php:351
+msgid "Breadcrumb"
+msgstr ""
+
+#: extend-options/extend-options.php:357
+msgid "Content"
+msgstr ""
+
+#: extend-options/extend-options.php:364 paperio-addons.php:127
+msgid "Under Maintenance Setting"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:17
+#: extend-options/paperio-post-like.php:224
+msgid "Like"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:18
+#: extend-options/paperio-post-like.php:220
+msgid "Unlike"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:35
+msgid "Not permitted"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:195
+msgid " sl-comment-button-"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:196
+msgid " sl-comment"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:200
+msgid " sl-button-"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:219
+msgid " liked"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:372
+msgid "You Like:"
+msgstr ""
+
+#: extend-options/paperio-post-like.php:398
+msgid "You do not like anything yet."
+msgstr ""
+
+#: importer/importer.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: importer/importer.php:41
+msgid "Ameera"
+msgstr ""
+
+#: importer/importer.php:47
+msgid "Angela"
+msgstr ""
+
+#: importer/importer.php:53
+msgid "Adelta"
+msgstr ""
+
+#: importer/importer.php:59
+msgid "anchali"
+msgstr ""
+
+#: importer/importer.php:65
+msgid "Aquilina"
+msgstr ""
+
+#: importer/importer.php:71
+msgid "Amelie"
+msgstr ""
+
+#: importer/importer.php:90
+msgid "Online Documentation"
+msgstr ""
+
+#: importer/importer.php:90
+msgid "Support Center"
+msgstr ""
+
+#: importer/importer.php:95
+msgid "Demo data successfully imported. Now, please install and run"
+msgstr ""
+
+#: importer/importer.php:95
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: importer/importer.php:95
+msgid "plugin once."
+msgstr ""
+
+#: importer/importer.php:100
+msgid "Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:101
+msgid ""
+"Import demo content data including posts, pages, theme customizer, widgets, "
+"images, sliders etc... It may take several minutes, so please have some "
+"patience."
+msgstr ""
+
+#: importer/importer.php:102
+msgid "Demo Import Requirements"
+msgstr ""
+
+#: importer/importer.php:104
+msgid ""
+"Memory Limit of 256 MB and max execution time (php time limit) of 300 "
+"seconds."
+msgstr ""
+
+#: importer/importer.php:105
+msgid "Paperio Addon must be activated for Shortcodes to work."
+msgstr ""
+
+#: importer/importer.php:118
+msgid "Install"
+msgstr ""
+
+#: importer/importer.php:119
+msgid "Preview"
+msgstr ""
+
+#: importer/importer.php:127
+msgid ""
+"Please activate your Paperio theme license copy to enjoy premium feature of "
+"demo data import."
+msgstr ""
+
+#: importer/importer.php:128
+msgid "Activate Paperio WordPress Theme License"
+msgstr ""
+
+#: importer/importer.php:143
+msgid "Content to export"
+msgstr ""
+
+#: importer/importer.php:147
+msgid "All Content"
+msgstr ""
+
+#: importer/importer.php:148
+msgid "This will contain all of your posts, pages & media."
+msgstr ""
+
+#: importer/importer.php:153
+msgid "Navigation Menu"
+msgstr ""
+
+#: importer/importer.php:156
+msgid "Posts"
+msgstr ""
+
+#: importer/importer.php:159
+msgid "Pages"
+msgstr ""
+
+#: importer/importer.php:162
+msgid "Media"
+msgstr ""
+
+#: importer/importer.php:165
+msgid "Customizer"
+msgstr ""
+
+#: importer/importer.php:168
+msgid "Contact Form"
+msgstr ""
+
+#: importer/importer.php:171
+msgid "Widgets"
+msgstr ""
+
+#: importer/importer.php:174
+msgid "Mailchimp Form"
+msgstr ""
+
+#: importer/importer.php:179
+msgid "Import"
+msgstr ""
+
+#: importer/parsers.php:42 importer/parsers.php:72 importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: importer/parsers.php:84 importer/parsers.php:89 importer/parsers.php:306
+#: importer/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/wordpress-importer.php:126 importer/wordpress-importer.php:135
+#: importer/wordpress-importer.php:186 importer/wordpress-importer.php:190
+#: importer/wordpress-importer.php:199
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/wordpress-importer.php:127
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: importer/wordpress-importer.php:170
+msgid "All done."
+msgstr ""
+
+#: importer/wordpress-importer.php:170
+msgid "Have fun!"
+msgstr ""
+
+#: importer/wordpress-importer.php:171
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: importer/wordpress-importer.php:191
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: importer/wordpress-importer.php:207
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: importer/wordpress-importer.php:232
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: importer/wordpress-importer.php:258
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/wordpress-importer.php:259
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: importer/wordpress-importer.php:261
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/wordpress-importer.php:271
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:274
+msgid "Download and import file attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:291
+msgid "Import author:"
+msgstr ""
+
+#: importer/wordpress-importer.php:302
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/wordpress-importer.php:305
+msgid "as a new user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:313
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:315
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:316
+msgid "- Select -"
+msgstr ""
+
+#: importer/wordpress-importer.php:366
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: importer/wordpress-importer.php:417
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:457
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:506 importer/wordpress-importer.php:647
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:532
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:554
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/wordpress-importer.php:613
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/wordpress-importer.php:780
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/wordpress-importer.php:787
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:872
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: importer/wordpress-importer.php:885
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/wordpress-importer.php:931
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/wordpress-importer.php:937
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/wordpress-importer.php:944
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/wordpress-importer.php:949
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/wordpress-importer.php:955
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1054
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/wordpress-importer.php:1061
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: importer/wordpress-importer.php:1076
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: importer/wordpress-importer.php:1077
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: importer/wordpress-importer.php:1150
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: meta-box/meta-box.php:67
+msgid "Paperio Post Format Settings"
+msgstr ""
+
+#: meta-box/meta-box.php:84
+msgid "Paperio Page Settings"
+msgstr ""
+
+#: meta-box/meta-box.php:86
+msgid "Paperio Post Settings"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:10
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:10
+msgid "Sidebar Settings"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:13
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:13
+msgid "One Column"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:14
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:14
+msgid "Two Columns Left"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:15
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:15
+msgid "Two Columns Right"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:22
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:23
+msgid "Left Sidebar"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:24
+msgid "Select sidebar to display in left column of page"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:28
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:29
+msgid "Right Sidebar"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:30
+msgid "Select sidebar to display in right column of page"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:34
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:35
+msgid "Enable Container Fluid"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:43
+msgid "Enable Page Title"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:51
+msgid "Page Title Background Image"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_page_single_setting.php:55
+msgid "Page Title"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:10
+msgid "Featured Image in Post Page"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:14
+msgid ""
+"Select No if you do not want to show featured image in the post detail page"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:17
+msgid "Blockquote"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:18
+msgid "Add block quote content"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:21
+msgid "List Type"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:22
+msgid "Lightbox"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:23
+msgid "Slider"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:25
+msgid "Select listing type"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:28
+msgid "Column Type"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:30
+msgid "Select Column"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:31
+msgid "2 Column"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:32
+msgid "3 Column"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:33
+msgid "4 Column"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:35
+msgid "Select listing column type"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:38
+msgid "Images"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:39
+msgid "Upload / select multiple images to build a gallery"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:42
+msgid "AUDIO URL (OEMBED) OR EMBED CODE"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:43
+msgid "Add content"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:46
+msgid "Video Type"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:47
+msgid "Self Hosted"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:48
+msgid "External Url"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:50
+msgid "Select video type"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:53
+msgid "Enable Video Mute"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:57
+msgid "Select yes to mute background video sound."
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:60
+msgid "MP4 Video URL"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:61
+#: meta-box/metabox-tabs/metabox_post_setting.php:66
+#: meta-box/metabox-tabs/metabox_post_setting.php:71
+msgid "Video url is required here if self hosted option is selected"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:65
+msgid "OGG Video URL"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:70
+msgid "WEBM Video URL"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:75
+msgid "Add Youtube/Vimeo Embed Url"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_setting.php:77
+msgid ""
+"Add YOUTUBE VIDEO EMBED URL like https://www.youtube.com/embed/xxxxxxxxxx, "
+"you will get this from youtube embed iframe src code. or add VIMEO VIDEO "
+"EMBED URL like https://player.vimeo.com/video/xxxxxxxx, you will get this "
+"from vimeo embed iframe src code."
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:16
+msgid "Three Columns"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:25
+msgid "Select sidebar to display in left column of post"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:31
+msgid "Select sidebar to display in right column of post"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:43
+msgid "Enable Post Title"
+msgstr ""
+
+#: meta-box/metabox-tabs/metabox_post_single_setting.php:51
+msgid "Post Title Background Image"
+msgstr ""
+
+#: paperio-addons.php:99
+#, php-format
+msgid "The file %s does not exist"
+msgstr ""
+
+#: paperio-addons.php:103
+msgid "File is not found in folder as you given"
+msgstr ""
+
+#: paperio-addons.php:111 paperio-addons.php:112
+msgid "Demo Import"
+msgstr ""
+
+#: widgets/paperio-about-me.php:19
+msgid "Paperio - About Me"
+msgstr ""
+
+#: widgets/paperio-about-me.php:20
+msgid "Your site Author."
+msgstr ""
+
+#: widgets/paperio-about-me.php:25 widgets/paperio-about-me.php:75
+msgid "About Me"
+msgstr ""
+
+#: widgets/paperio-about-me.php:85 widgets/paperio-ads.php:72
+#: widgets/paperio-favourite-quotes.php:64 widgets/paperio-follow-us.php:126
+#: widgets/paperio-instagram.php:268 widgets/paperio-popular-post.php:113
+#: widgets/paperio-recent-menu-post.php:147 widgets/paperio-twitter.php:194
+msgid "Title:"
+msgstr ""
+
+#: widgets/paperio-about-me.php:89 widgets/paperio-ads.php:81
+msgid "Author Image URL:"
+msgstr ""
+
+#: widgets/paperio-about-me.php:93 widgets/paperio-ads.php:85
+msgid "Link URL:"
+msgstr ""
+
+#: widgets/paperio-about-me.php:97 widgets/paperio-ads.php:89
+msgid "Image Alt Text:"
+msgstr ""
+
+#: widgets/paperio-about-me.php:101 widgets/paperio-favourite-quotes.php:72
+msgid "Author Name:"
+msgstr ""
+
+#: widgets/paperio-about-me.php:105 widgets/paperio-favourite-quotes.php:68
+msgid "Short Description:"
+msgstr ""
+
+#: widgets/paperio-ads.php:18
+msgid "Paperio - Ads Widget"
+msgstr ""
+
+#: widgets/paperio-ads.php:19
+msgid "Your site Ads widget."
+msgstr ""
+
+#: widgets/paperio-ads.php:24 widgets/paperio-ads.php:64
+msgid "Ad Banner"
+msgstr ""
+
+#: widgets/paperio-ads.php:76
+msgid "Ads ShortCode:"
+msgstr ""
+
+#: widgets/paperio-ads.php:79
+msgid "OR"
+msgstr ""
+
+#: widgets/paperio-favourite-quotes.php:19
+msgid "Paperio - Favourite Quotes"
+msgstr ""
+
+#: widgets/paperio-favourite-quotes.php:20
+msgid "Your Favourite Quotes."
+msgstr ""
+
+#: widgets/paperio-favourite-quotes.php:25
+#: widgets/paperio-favourite-quotes.php:55
+msgid "Favourite Quotes"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:18
+msgid "Paperio - Follow Us"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:19
+msgid "Your site Followers."
+msgstr ""
+
+#: widgets/paperio-follow-us.php:25 widgets/paperio-follow-us.php:108
+msgid "Follow Us"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:130
+msgid "Facebook:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:135
+msgid "Twitter:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:140
+msgid "Google Plus:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:144
+msgid "Bloglovin:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:148
+msgid "Pinterest:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:152
+msgid "Instagram:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:157
+msgid "Tumblr:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:161
+msgid "Youtube:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:165
+msgid "Dribbble:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:169
+msgid "Soundcloud:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:173
+msgid "Vimeo:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:177
+msgid "Linkedin:"
+msgstr ""
+
+#: widgets/paperio-follow-us.php:181
+msgid "RSS Link:"
+msgstr ""
+
+#: widgets/paperio-instagram.php:38
+msgid "Paperio - Instagram"
+msgstr ""
+
+#: widgets/paperio-instagram.php:39
+msgid "Add a custom instagram widget."
+msgstr ""
+
+#: widgets/paperio-instagram.php:137 widgets/paperio-instagram.php:237
+msgid "Follow Us @ Instagram"
+msgstr ""
+
+#: widgets/paperio-instagram.php:272
+msgid "Small Title:"
+msgstr ""
+
+#: widgets/paperio-instagram.php:276
+msgid "Title Text:"
+msgstr ""
+
+#: widgets/paperio-instagram.php:280
+msgid "Instagram User ID:"
+msgstr ""
+
+#: widgets/paperio-instagram.php:285
+msgid "Instagram Access Token:"
+msgstr ""
+
+#: widgets/paperio-instagram.php:289
+msgid "Instagram Feed Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:292
+msgid "Slider Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:293
+msgid "Grid Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:303
+msgid "Loop"
+msgstr ""
+
+#: widgets/paperio-instagram.php:315
+msgid "AutoPlay"
+msgstr ""
+
+#: widgets/paperio-instagram.php:327
+msgid "Speed"
+msgstr ""
+
+#: widgets/paperio-instagram.php:349
+msgid "Stop On Hover"
+msgstr ""
+
+#: widgets/paperio-instagram.php:361
+msgid "Show Pagination"
+msgstr ""
+
+#: widgets/paperio-instagram.php:373
+msgid "Pagination Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:377
+msgid "Dot Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:378
+msgid "Line Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:379
+msgid "Round Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:387
+msgid "Pagination Color Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:390
+msgid "Dark Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:391
+msgid "Light Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:400
+msgid "Cursor Style"
+msgstr ""
+
+#: widgets/paperio-instagram.php:403
+msgid "Default Cursor"
+msgstr ""
+
+#: widgets/paperio-instagram.php:404
+msgid "Dark Cursor"
+msgstr ""
+
+#: widgets/paperio-instagram.php:405
+msgid "Light Cursor"
+msgstr ""
+
+#: widgets/paperio-instagram.php:414
+msgid "No. of items per slide &ndash; Desktop View"
+msgstr ""
+
+#: widgets/paperio-instagram.php:435
+msgid "No. of items per slide &ndash; Desktop Mini View"
+msgstr ""
+
+#: widgets/paperio-instagram.php:456
+msgid "No. of items per slide &ndash; iPad/Tablet View"
+msgstr ""
+
+#: widgets/paperio-instagram.php:469
+msgid "No. of items per slide &ndash; Mobile View"
+msgstr ""
+
+#: widgets/paperio-instagram.php:484
+msgid "Sort Instagram Feed"
+msgstr ""
+
+#: widgets/paperio-instagram.php:487
+msgid "None"
+msgstr ""
+
+#: widgets/paperio-instagram.php:488
+msgid "Most Recent"
+msgstr ""
+
+#: widgets/paperio-instagram.php:489
+msgid "Least Recent"
+msgstr ""
+
+#: widgets/paperio-instagram.php:490
+msgid "Most Liked"
+msgstr ""
+
+#: widgets/paperio-instagram.php:491
+msgid "Least Liked"
+msgstr ""
+
+#: widgets/paperio-instagram.php:492
+msgid "Most Commented"
+msgstr ""
+
+#: widgets/paperio-instagram.php:493
+msgid "Least Commented"
+msgstr ""
+
+#: widgets/paperio-instagram.php:494 widgets/paperio-popular-post.php:134
+#: widgets/paperio-recent-menu-post.php:189
+msgid "Random"
+msgstr ""
+
+#: widgets/paperio-instagram.php:504
+msgid "No. of column ( It work only for grid style )"
+msgstr ""
+
+#: widgets/paperio-instagram.php:521
+msgid "No. of instagram feed"
+msgstr ""
+
+#: widgets/paperio-instagram.php:527
+msgid "Disable Like"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:19
+msgid "Paperio - Popular Post"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:20
+msgid "Your site most Popular Posts."
+msgstr ""
+
+#: widgets/paperio-popular-post.php:26 widgets/paperio-popular-post.php:101
+msgid "Popular Post"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:120
+msgid "Date Format:"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:126
+#: widgets/paperio-recent-menu-post.php:181
+msgid "Order by:"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:129
+#: widgets/paperio-recent-menu-post.php:184
+msgid "date"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:129
+#: widgets/paperio-recent-menu-post.php:184
+msgid "Date"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:130
+#: widgets/paperio-recent-menu-post.php:185
+msgid "ID"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:131
+#: widgets/paperio-recent-menu-post.php:186
+msgid "author"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:131
+#: widgets/paperio-recent-menu-post.php:186
+msgid "Author"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:132
+#: widgets/paperio-recent-menu-post.php:187
+msgid "title"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:132
+#: widgets/paperio-recent-menu-post.php:187
+msgid "Title"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:133
+#: widgets/paperio-recent-menu-post.php:188
+msgid "modified"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:133
+#: widgets/paperio-recent-menu-post.php:188
+msgid "Modified Date"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:134
+#: widgets/paperio-recent-menu-post.php:189
+msgid "rand"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:135
+#: widgets/paperio-recent-menu-post.php:190
+msgid "comment_count"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:135
+#: widgets/paperio-recent-menu-post.php:190
+msgid "Comment count"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:136
+#: widgets/paperio-recent-menu-post.php:191
+msgid "menu_order"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:136
+#: widgets/paperio-recent-menu-post.php:191
+msgid "Menu order"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:141
+#: widgets/paperio-recent-menu-post.php:196
+msgid "Sort order:"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:144
+#: widgets/paperio-recent-menu-post.php:199
+msgid "DESC"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:144
+#: widgets/paperio-recent-menu-post.php:199
+msgid "Descending"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:145
+#: widgets/paperio-recent-menu-post.php:200
+msgid "ASC"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:145
+#: widgets/paperio-recent-menu-post.php:200
+msgid "Ascending"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:150
+#: widgets/paperio-recent-menu-post.php:205
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/paperio-popular-post.php:157
+#: widgets/paperio-recent-menu-post.php:212
+msgid "Display Thumbnail?"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:19
+msgid "Paperio - Menu Recent Post"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:20
+msgid "Your site most Recent Posts."
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:26
+#: widgets/paperio-recent-menu-post.php:126
+msgid "Recent Post"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:110
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:153
+msgid "Column Type:"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:156
+msgid "one-column"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:156
+msgid "1 Column"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:157
+msgid "two-column"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:157
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:158
+msgid "three-column"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:158
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:159
+msgid "four-column"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:159
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:160
+msgid "six-column"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:160
+msgid "6 Columns"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:162
+msgid "It's only work in Menu"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:167
+msgid "Select Category:"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:170
+msgid "all"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:170
+msgid "All Categories"
+msgstr ""
+
+#: widgets/paperio-recent-menu-post.php:218
+msgid "Show Full Post Title?"
+msgstr ""
+
+#: widgets/paperio-twitter.php:19
+msgid "Paperio - Twitter Feed"
+msgstr ""
+
+#: widgets/paperio-twitter.php:20
+msgid "A widget to display Twitter feed."
+msgstr ""
+
+#: widgets/paperio-twitter.php:26 widgets/paperio-twitter.php:181
+msgid "Recent Tweets"
+msgstr ""
+
+#: widgets/paperio-twitter.php:44
+msgid "Please fill all widget settings!"
+msgstr ""
+
+#: widgets/paperio-twitter.php:50
+msgid "Couldn't find twitteroauth.php!"
+msgstr ""
+
+#: widgets/paperio-twitter.php:64
+msgid "You'll need to regenerate it "
+msgstr ""
+
+#: widgets/paperio-twitter.php:64
+msgid "here"
+msgstr ""
+
+#: widgets/paperio-twitter.php:109
+msgid "<b>Error!</b> Couldn't retrieve tweets for some reason!"
+msgstr ""
+
+#: widgets/paperio-twitter.php:158
+msgid "right now"
+msgstr ""
+
+#: widgets/paperio-twitter.php:160
+msgid " seconds ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:162
+msgid "about 1 minute ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:164
+msgid " minutes ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:166
+msgid "about 1 hour ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:168
+msgid " hours ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:170
+msgid "yesterday"
+msgstr ""
+
+#: widgets/paperio-twitter.php:172
+msgid " days ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:174
+msgid "over a year ago"
+msgstr ""
+
+#: widgets/paperio-twitter.php:198
+msgid "Get your API keys &amp; tokens at:"
+msgstr ""
+
+#: widgets/paperio-twitter.php:201
+msgid "Twitter Username:"
+msgstr ""
+
+#: widgets/paperio-twitter.php:206
+msgid "Consumer Key:"
+msgstr ""
+
+#: widgets/paperio-twitter.php:210
+msgid "Consumer Secret:"
+msgstr ""
+
+#: widgets/paperio-twitter.php:214
+msgid "Access Token:"
+msgstr ""
+
+#: widgets/paperio-twitter.php:218
+msgid "Access Token Secret:"
+msgstr ""
+
+#: widgets/paperio-twitter.php:222
+msgid "Tweet Limit:"
+msgstr ""

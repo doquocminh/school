@@ -1,0 +1,240 @@
+.paperio_meta_box_tabs {
+    background: #f5f5f5 none repeat scroll 0 0;
+    box-sizing: border-box;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 202px;
+}
+.paperio_meta_box_tabs li {
+    margin: 0;
+}
+.paperio_meta_box_tabs li a {
+    background: transparent none repeat scroll 0 0;
+    border-bottom: 1px solid #e7e7e7;
+    border-style: solid;
+    border-top: 1px solid #f9f9f9;
+    border-width: 1px 0;
+    color: #555;
+    display: block;
+    font-weight: bold;
+    opacity: 0.7;
+    outline: medium none;
+    padding: 10px 4px 10px 14px;
+    text-decoration: none;
+    transition: none 0s ease 0s ;
+}
+.paperio_meta_box_tabs li a:hover {
+    background: #e5e5e5 none repeat scroll 0 0;
+    border-top: 1px solid #e7e7e7;
+    color: #777;
+    opacity: 1;
+}
+.paperio_meta_box_tabs li.active a {
+    background-color: #fcfcfc;
+    color: #222;
+    opacity: 1;
+}
+.paperio_meta_box_tabs li a:focus {
+    box-shadow: none;
+    outline: medium none;
+}
+.paperio_meta_box_tabs li a i {
+    font-size: 1.35em;
+    position: absolute;
+    vertical-align: middle;
+}
+.paperio_meta_box_tabs li a .group_title {
+    display: block;
+    padding-left: 30px;
+}
+.paperio_meta_box_tab_content {
+    background: #fcfcfc none repeat scroll 0 0;
+    border-left: 1px solid #d8d8d8;
+    box-shadow: 0 1px 0 #fff inset;
+    display: flex;
+    margin-left: 201px;
+    min-height: 300px;
+    padding: 10px 20px 30px;
+    position: relative;
+}
+#paperio_admin_options .inside {
+    background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(center top , #f2f2f2 0%, #f5f5f5 100%);
+    background-repeat: repeat-x;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+.paperio_meta_box_tab {
+    display: none;
+}
+.hide-children {
+    display: none;
+}
+.show-children {
+    display: block;
+}
+.paperio_meta_box_tab_content .active {
+    display: block !important;
+}
+.paperio_meta_box_tab_content h3 {
+    border-bottom: 1px solid #e7e7e7 !important;
+    color: #23282d !important;
+    display: block;
+    font-size: 1.3em !important;
+    font-weight: 600;
+    line-height: 2em !important;
+    margin: 0 0 20px !important;
+    padding: 0 !important;
+}
+.paperio_meta_box_tab_content p {
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding: 20px 10px 20px 0;
+    width: 30%;
+}
+.main_tab_title {
+    margin-bottom: 20px;
+}
+.description_box {
+    border-bottom: 1px solid #ececec;
+    float: left;
+    width: 100%;
+}
+.left-part {
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding: 20px 10px 20px 0;
+    width: 30%;
+}
+.left-part .description {
+    color: #666;
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+}
+.main_tab_title .description {
+    font-style: normal;
+}
+.right-part {
+    float: left;
+    padding: 20px 0 0;
+    width: 70%;
+}
+.right-part textarea {
+    height: 100px;
+    width: 100%;
+}
+.right-part select {
+    background: transparent url("../images/select-arrow.png") no-repeat scroll right 7px center;
+    cursor: pointer;
+    font-size: 12px;
+    padding-right: 25px;
+    width: 320px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+        appearance: none;
+}
+.right-part .upload_image_screenshort {
+    clear: both;
+    float: left;
+    margin-bottom: 10px;
+    width: 150px;
+}
+.right-part .upload_field, .paperio_meta_box_tab_content input[type="text"] {
+    float: left;
+    font-size: 12px;
+    margin-bottom: 10px;
+    width: 320px;
+}
+.right-part .paperio_upload_button {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+    box-sizing: border-box;
+    clear: both;
+    color: #555;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    margin: 0 10px 21px 0;
+    padding: 0 10px 1px;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+}
+.right-part .paperio_upload_button:hover, .right-part .paperio_upload_button:focus {
+    background: #fafafa none repeat scroll 0 0;
+    border-color: #999;
+    color: #23282d;
+}
+.right-part .paperio_upload_button:active {
+    background: #eee none repeat scroll 0 0;
+    border-color: #999;
+    box-shadow: 0 2px 5px -3px rgba(0, 0, 0, 0.5) inset;
+    color: #32373c;
+}
+.right-part .paperio_remove_button {
+    float: left;
+    margin: 0 10px 21px 0;
+}
+@media screen and (max-width: 1400px) {
+.left-part {
+    width: 40%;
+}
+.right-part {
+    width: 60%;
+}
+.right-part .upload_field, input[type="text"], .right-part select {
+    width: 85%;
+}
+}
+@media screen and (max-width: 1124px) {
+.paperio_meta_box_tabs {
+    width: 50px;
+}
+.paperio_meta_box_tabs li a {
+    height: 20px;
+    position: relative;
+}
+.paperio_meta_box_tabs li a .group_title {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #eeeeee none repeat scroll 0 0;
+    border-color: #ccc;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 50px;
+    padding: 9px 12px 12px;
+    position: absolute;
+    top: -1px;
+    width: 200px;
+    z-index: 3;
+}
+.paperio_meta_box_tabs li a:hover .group_title {
+    display: block;
+}
+.paperio_meta_box_tab_content {
+    margin-left: 50px;
+}
+.left-part {
+    width: 40%;
+}
+.right-part {
+    width: 60%;
+}
+}
